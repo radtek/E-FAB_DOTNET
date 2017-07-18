@@ -1,0 +1,2050 @@
+Create log file
+2017-06-16 00:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 00:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 00:01:01Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 00:01:01Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 00:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 00:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 00:01:05Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 00:01:05Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 00:01:07Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 00:01:07Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 00:01:09Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 00:01:09Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 00:01:10Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 00:01:10Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 00:01:11Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 00:01:11Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 00:01:12Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 00:01:12Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 00:01:13Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 00:01:13Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 00:01:15Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 00:01:15Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 00:03:00Z Array_test_repeat log  Program Start
+2017-06-16 00:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 00:30:00Z T0/T1 RealTimeDept Program Start
+2017-06-16 00:30:00Z T0/T1 RealTimeDept Program END 
+
+Create log file
+2017-06-16 00:32:38Z T0/T1 Email Alive check  Program Start
+2017-06-16 00:32:38Z T0/T1 Email Alive check  Program END 
+
+Create log file
+2017-06-16 00:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 00:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 00:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 00:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 00:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 00:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 00:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 00:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 00:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 00:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 00:50:01Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 00:50:01Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 00:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 00:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 01:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 01:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 01:01:05Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 01:01:05Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 01:01:07Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 01:01:07Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 01:01:09Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 01:01:09Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 01:01:11Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 01:01:11Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 01:01:13Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 01:01:13Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 01:01:14Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 01:01:14Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 01:01:16Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 01:01:16Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 01:01:19Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 01:01:19Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 01:01:21Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 01:01:21Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 01:01:23Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 01:01:23Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 01:03:00Z Array_test_repeat log  Program Start
+2017-06-16 01:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 01:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2017-06-16 01:31:42ZARY_HOLD_LOT Program End
+
+Create log file
+2017-06-16 01:50:31Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 01:50:31Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 01:50:31Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 01:50:31Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 01:50:32Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 01:50:32Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 01:50:32Z T1OEEDB_CHK log  Program Start
+2017-06-16 01:50:32Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 01:50:32Z T1OEEDB_CHK log End Program Start
+2017-06-16 01:50:32Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 01:50:32Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 01:50:32Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 01:50:32Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 01:50:32Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 02:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 02:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 02:01:06Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 02:01:06Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 02:01:10Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 02:01:10Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 02:01:12Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 02:01:12Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 02:01:13Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 02:01:13Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 02:01:15Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 02:01:15Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 02:01:15Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 02:01:15Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 02:01:16Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 02:01:16Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 02:01:17Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 02:01:17Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 02:01:17Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 02:01:17Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 02:01:18Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 02:01:18Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 02:03:00Z Array_test_repeat log  Program Start
+2017-06-16 02:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 02:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 02:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 02:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 02:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 02:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 02:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 02:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 02:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 02:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 02:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 02:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 02:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 02:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 02:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 03:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 03:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 03:01:03Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 03:01:03Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 03:01:05Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 03:01:05Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 03:01:06Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 03:01:06Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 03:01:07Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 03:01:07Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 03:01:09Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 03:01:09Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 03:01:10Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 03:01:10Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 03:01:10Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 03:01:10Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 03:01:11Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 03:01:11Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 03:01:12Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 03:01:12Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 03:01:12Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 03:01:12Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 03:03:00Z Array_test_repeat log  Program Start
+2017-06-16 03:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 03:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 03:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 03:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 03:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 03:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 03:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 03:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 03:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 03:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 03:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 03:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 03:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 03:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 03:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 04:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 04:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 04:01:02Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 04:01:02Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 04:01:06Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 04:01:06Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 04:01:08Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 04:01:08Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 04:01:09Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 04:01:09Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 04:01:11Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 04:01:11Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 04:01:12Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 04:01:12Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 04:01:12Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 04:01:12Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 04:01:13Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 04:01:13Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 04:01:14Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 04:01:14Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 04:01:15Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 04:01:15Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 04:03:00Z Array_test_repeat log  Program Start
+2017-06-16 04:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 04:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 04:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 04:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 04:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 04:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 04:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 04:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 04:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 04:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 04:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 04:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 04:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 04:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 04:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 05:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 05:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 05:01:01Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 05:01:01Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 05:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 05:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 05:01:04Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 05:01:04Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 05:01:06Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 05:01:06Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 05:01:08Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 05:01:08Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 05:01:09Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 05:01:09Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 05:01:11Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 05:01:11Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 05:01:13Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 05:01:13Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 05:01:14Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 05:01:14Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 05:01:15Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 05:01:15Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 05:03:00Z Array_test_repeat log  Program Start
+2017-06-16 05:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 05:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2017-06-16 05:33:08ZARY_HOLD_LOT Program End
+
+Create log file
+2017-06-16 05:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 05:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 05:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 05:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 05:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 05:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 05:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 05:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 05:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 05:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 05:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 05:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 05:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 05:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 06:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 06:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 06:01:01Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 06:01:01Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 06:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 06:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 06:01:05Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 06:01:05Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 06:01:07Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 06:01:07Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 06:01:08Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 06:01:08Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 06:01:09Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 06:01:09Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 06:01:10Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 06:01:10Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 06:01:12Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 06:01:12Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 06:01:13Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 06:01:13Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 06:01:13Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 06:01:13Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 06:03:00Z Array_test_repeat log  Program Start
+2017-06-16 06:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 06:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 06:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 06:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 06:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 06:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 06:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 06:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 06:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 06:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 06:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 06:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 06:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 06:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 06:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 07:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 07:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 07:01:10Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 07:01:10Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 07:01:22Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 07:01:22Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 07:01:31Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 07:01:31Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 07:01:35Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 07:01:35Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 07:01:38Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 07:01:38Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 07:01:39Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 07:01:39Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 07:01:40Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 07:01:40Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 07:01:42Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 07:01:42Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 07:01:42Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 07:01:42Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 07:01:44Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 07:01:44Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 07:03:00Z Array_test_repeat log  Program Start
+2017-06-16 07:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 07:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 07:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 07:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 07:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 07:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 07:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 07:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 07:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 07:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 07:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 07:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 07:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 07:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 07:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 08:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 08:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 08:01:01Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 08:01:01Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 08:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 08:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 08:01:05Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 08:01:05Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 08:01:06Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 08:01:06Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 08:01:08Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 08:01:08Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 08:01:09Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 08:01:09Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 08:01:10Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 08:01:10Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 08:01:12Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 08:01:12Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 08:01:13Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 08:01:13Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 08:01:14Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 08:01:14Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 08:02:01Z Check_Onduty_Time From Onduty_dotnet2  Program Start
+2017-06-16 08:02:01Z Check_Onduty_Time From Onduty_dotnet2  Program END 
+
+Create log file
+2017-06-16 08:03:00Z Array_test_repeat log  Program Start
+2017-06-16 08:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 08:07:03Z Check_Onduty_Time From Onduty_dotnet2  Program Start
+2017-06-16 08:07:03Z Check_Onduty_Time From Onduty_dotnet2  Program END 
+
+Create log file
+2017-06-16 08:10:00Z EDA_FILE_TODR Program Start
+2017-06-16 08:10:00Z EDA_FILE_TODR Program END 
+
+Create log file
+2017-06-16 08:12:01Z Check_Onduty_Time From Onduty_dotnet2  Program Start
+2017-06-16 08:12:01Z Check_Onduty_Time From Onduty_dotnet2  Program END 
+
+Create log file
+2017-06-16 08:32:00ZOEE_EQP_SMS Program Start
+2017-06-16 08:32:00ZOEE_EQP_SMS Program End
+
+Create log file
+2017-06-16 08:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 08:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 08:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 08:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 08:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 08:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 08:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 08:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 08:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 08:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 08:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 08:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 08:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 08:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 09:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 09:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 09:01:03Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 09:01:03Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 09:01:05Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 09:01:05Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 09:01:07Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 09:01:07Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 09:01:09Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 09:01:09Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 09:01:11Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 09:01:11Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 09:01:12Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 09:01:12Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 09:01:13Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 09:01:13Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 09:01:15Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 09:01:15Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 09:01:16Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 09:01:16Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 09:01:17Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 09:01:17Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 09:03:00Z Array_test_repeat log  Program Start
+2017-06-16 09:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 09:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2017-06-16 09:31:42ZARY_HOLD_LOT Program End
+
+Create log file
+2017-06-16 09:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 09:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 09:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 09:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 09:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 09:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 09:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 09:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 09:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 09:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 09:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 09:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 09:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 09:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 10:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 10:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 10:01:01Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 10:01:01Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 10:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 10:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 10:01:04Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 10:01:04Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 10:01:06Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 10:01:06Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 10:01:07Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 10:01:07Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 10:01:08Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 10:01:08Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 10:01:08Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 10:01:08Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 10:01:10Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 10:01:10Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 10:01:11Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 10:01:11Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 10:01:12Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 10:01:12Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 10:03:00Z Array_test_repeat log  Program Start
+2017-06-16 10:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 10:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 10:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 10:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 10:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 10:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 10:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 10:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 10:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 10:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 10:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 10:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 10:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 10:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 10:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 11:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 11:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 11:01:04Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 11:01:04Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 11:01:07Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 11:01:07Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 11:01:08Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 11:01:08Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 11:01:10Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 11:01:10Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 11:01:13Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 11:01:13Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 11:01:14Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 11:01:14Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 11:01:15Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 11:01:15Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 11:01:17Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 11:01:17Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 11:01:18Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 11:01:18Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 11:01:19Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 11:01:19Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 11:03:00Z Array_test_repeat log  Program Start
+2017-06-16 11:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 11:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 11:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 11:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 11:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 11:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 11:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 11:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 11:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 11:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 11:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 11:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 11:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 11:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 11:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 12:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 12:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 12:01:01Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 12:01:01Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 12:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 12:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 12:01:04Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 12:01:04Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 12:01:05Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 12:01:05Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 12:01:07Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 12:01:07Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 12:01:08Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 12:01:08Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 12:01:08Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 12:01:08Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 12:01:10Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 12:01:10Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 12:01:11Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 12:01:11Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 12:01:12Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 12:01:12Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 12:03:00Z Array_test_repeat log  Program Start
+2017-06-16 12:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 12:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 12:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 12:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 12:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 12:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 12:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 12:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 12:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 12:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 12:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 12:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 12:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 12:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 12:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 13:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 13:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 13:01:02Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 13:01:02Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 13:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 13:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 13:01:05Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 13:01:05Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 13:01:06Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 13:01:06Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 13:01:07Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 13:01:07Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 13:01:08Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 13:01:08Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 13:01:09Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 13:01:09Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 13:01:17Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 13:01:17Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 13:01:19Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 13:01:19Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 13:01:19Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 13:01:19Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 13:03:00Z Array_test_repeat log  Program Start
+2017-06-16 13:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 13:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2017-06-16 13:31:39ZARY_HOLD_LOT Program End
+
+Create log file
+2017-06-16 13:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 13:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 13:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 13:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 13:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 13:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 13:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 13:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 13:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 13:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 13:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 13:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 13:50:00Z SERVER_SELF_CHECK Program Start
+SMS log finish
+
+2017-06-16 13:50:01Z SERVER_SELF_CHECK Program End
+
+Create log file
+2017-06-16 13:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 13:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 14:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 14:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 14:01:01Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 14:01:01Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 14:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 14:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 14:01:04Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 14:01:04Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 14:01:06Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 14:01:06Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 14:01:07Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 14:01:07Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 14:01:08Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 14:01:08Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 14:01:09Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 14:01:09Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 14:01:10Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 14:01:10Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 14:01:12Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 14:01:12Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 14:01:12Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 14:01:12Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 14:03:00Z Array_test_repeat log  Program Start
+2017-06-16 14:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 14:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 14:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 14:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 14:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 14:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 14:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 14:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 14:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 14:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 14:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 14:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 14:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 14:50:00Z SERVER_SELF_CHECK Program Start
+SMS log finish
+
+2017-06-16 14:50:01Z SERVER_SELF_CHECK Program End
+
+Create log file
+2017-06-16 14:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 14:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 15:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 15:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 15:01:03Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 15:01:03Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 15:01:04Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 15:01:04Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 15:01:06Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 15:01:06Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 15:01:07Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 15:01:07Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 15:01:08Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 15:01:08Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 15:01:09Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 15:01:09Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 15:01:10Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 15:01:10Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 15:01:11Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 15:01:11Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 15:01:12Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 15:01:12Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 15:01:13Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 15:01:13Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 15:03:00Z Array_test_repeat log  Program Start
+2017-06-16 15:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 15:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 15:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 15:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 15:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 15:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 15:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 15:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 15:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 15:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 15:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 15:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 15:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 15:50:00Z SERVER_SELF_CHECK Program Start
+SMS log finish
+
+2017-06-16 15:50:01Z SERVER_SELF_CHECK Program End
+
+Create log file
+2017-06-16 15:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 15:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 16:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 16:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 16:01:04Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 16:01:04Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 16:01:09Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 16:01:09Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 16:01:10Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 16:01:10Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 16:01:11Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 16:01:11Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 16:01:13Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 16:01:13Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 16:01:14Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 16:01:14Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 16:01:14Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 16:01:14Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 16:01:15Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 16:01:15Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 16:01:16Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 16:01:16Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 16:01:17Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 16:01:17Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 16:03:00Z Array_test_repeat log  Program Start
+2017-06-16 16:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 16:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 16:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 16:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 16:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 16:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 16:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 16:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 16:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 16:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 16:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 16:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 16:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 16:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 16:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 17:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 17:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 17:01:02Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 17:01:02Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 17:01:05Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 17:01:05Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 17:01:07Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 17:01:07Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 17:01:09Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 17:01:09Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 17:01:10Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 17:01:10Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 17:01:11Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 17:01:11Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 17:01:11Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 17:01:11Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 17:01:12Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 17:01:12Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 17:01:13Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 17:01:13Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 17:01:14Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 17:01:14Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 17:03:00Z Array_test_repeat log  Program Start
+2017-06-16 17:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 17:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2017-06-16 17:31:28ZARY_HOLD_LOT Program End
+
+Create log file
+2017-06-16 17:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 17:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 17:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 17:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 17:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 17:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 17:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 17:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 17:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 17:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 17:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 17:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 17:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 17:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 18:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 18:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 18:01:01Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 18:01:01Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 18:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 18:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 18:01:04Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 18:01:04Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 18:01:05Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 18:01:05Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 18:01:07Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 18:01:07Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 18:01:07Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 18:01:07Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 18:01:08Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 18:01:08Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 18:01:09Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 18:01:09Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 18:01:10Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 18:01:10Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 18:01:10Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 18:01:10Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 18:03:00Z Array_test_repeat log  Program Start
+2017-06-16 18:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 18:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 18:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 18:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 18:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 18:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 18:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 18:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 18:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 18:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 18:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 18:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 18:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 18:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 18:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 19:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 19:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 19:01:03Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 19:01:03Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 19:01:08Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 19:01:08Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 19:01:19Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 19:01:19Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 19:01:20Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 19:01:20Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 19:01:22Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 19:01:22Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 19:01:23Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 19:01:23Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 19:01:24Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 19:01:24Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 19:01:25Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 19:01:25Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 19:01:27Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 19:01:27Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 19:01:28Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 19:01:28Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 19:03:00Z Array_test_repeat log  Program Start
+2017-06-16 19:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 19:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 19:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 19:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 19:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 19:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 19:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 19:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 19:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 19:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 19:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 19:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 19:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 19:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 19:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 20:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 20:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 20:01:01Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 20:01:01Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 20:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 20:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 20:01:05Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 20:01:05Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 20:01:06Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 20:01:06Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 20:01:08Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 20:01:08Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 20:01:09Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 20:01:09Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 20:01:10Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 20:01:10Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 20:01:12Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 20:01:12Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 20:01:12Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 20:01:12Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 20:01:14Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 20:01:14Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 20:03:00Z Array_test_repeat log  Program Start
+2017-06-16 20:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 20:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 20:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 20:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 20:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 20:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 20:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 20:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 20:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 20:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 20:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 20:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 20:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 20:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 20:50:01Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 21:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 21:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 21:01:04Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 21:01:04Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 21:01:06Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 21:01:06Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 21:01:07Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 21:01:07Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 21:01:09Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 21:01:09Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 21:01:10Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 21:01:10Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 21:01:11Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 21:01:11Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 21:01:12Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 21:01:12Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 21:01:13Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 21:01:13Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 21:01:15Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 21:01:15Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 21:01:16Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 21:01:16Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 21:03:00Z Array_test_repeat log  Program Start
+2017-06-16 21:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 21:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2017-06-16 21:31:28ZARY_HOLD_LOT Program End
+
+Create log file
+2017-06-16 21:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 21:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 21:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 21:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 21:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 21:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 21:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 21:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 21:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 21:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 21:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 21:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 21:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 21:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 22:01:31Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 22:01:31Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 22:01:34Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 22:01:34Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 22:01:36Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 22:01:36Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 22:01:38Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 22:01:38Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 22:01:39Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 22:01:39Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 22:01:41Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 22:01:41Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 22:01:42Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 22:01:42Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 22:01:42Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 22:01:42Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 22:01:44Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 22:01:44Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 22:01:45Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 22:01:45Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 22:01:47Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 22:01:47Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 22:03:00Z Array_test_repeat log  Program Start
+2017-06-16 22:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 22:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 22:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 22:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 22:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 22:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 22:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 22:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 22:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 22:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 22:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 22:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 22:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 22:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 22:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+
+Create log file
+2017-06-16 23:01:00Z Array Photo hourly_CHK log 1150 Program Start
+2017-06-16 23:01:00Z Array Photo hourly_CHK log 1150 Program END 
+
+Create log file
+2017-06-16 23:01:02Z Array Photo hourly_CHK log 1250 Program Start
+2017-06-16 23:01:02Z Array Photo hourly_CHK log 1250 Program END 
+
+Create log file
+2017-06-16 23:01:03Z Array Photo hourly_CHK log 1350 Program Start
+2017-06-16 23:01:03Z Array Photo hourly_CHK log 1350 Program END 
+
+Create log file
+2017-06-16 23:01:05Z Array Photo hourly_CHK log 1450 Program Start
+2017-06-16 23:01:05Z Array Photo hourly_CHK log 1450 Program END 
+
+Create log file
+2017-06-16 23:01:06Z Array Photo hourly_CHK log 1650 Program Start
+2017-06-16 23:01:06Z Array Photo hourly_CHK log 1650 Program END 
+
+Create log file
+2017-06-16 23:01:08Z Array Photo hourly_CHK log S150 Program Start
+2017-06-16 23:01:08Z Array Photo hourly_CHK log S150 Program END 
+
+Create log file
+2017-06-16 23:01:09Z Array Photo hourly_CHK log S250 Program Start
+2017-06-16 23:01:09Z Array Photo hourly_CHK log S250 Program END 
+
+Create log file
+2017-06-16 23:01:10Z Array Photo hourly_CHK log S350 Program Start
+2017-06-16 23:01:10Z Array Photo hourly_CHK log S350 Program END 
+
+Create log file
+2017-06-16 23:01:11Z Array Photo hourly_CHK log S450 Program Start
+2017-06-16 23:01:11Z Array Photo hourly_CHK log S450 Program END 
+
+Create log file
+2017-06-16 23:01:13Z Array Photo hourly_CHK log S550 Program Start
+2017-06-16 23:01:13Z Array Photo hourly_CHK log S550 Program END 
+
+Create log file
+2017-06-16 23:01:15Z Array Photo hourly_CHK log S850 Program Start
+2017-06-16 23:01:15Z Array Photo hourly_CHK log S850 Program END 
+
+Create log file
+2017-06-16 23:03:00Z Array_test_repeat log  Program Start
+2017-06-16 23:03:00Z Array_test_repeat log  Program END 
+
+Create log file
+2017-06-16 23:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2017-06-16 23:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2017-06-16 23:50:00Z ALCS_Hourly_Check_Alarm log  Program Start
+2017-06-16 23:50:00Z ALCS_Hourly_Check_Alarm log  Program END 
+
+Create log file
+2017-06-16 23:50:00Z ALCS_Hourly_Check_Alarm log Program Start
+2017-06-16 23:50:00Z ALCS_Hourly_Check_Alarm log Program END 
+
+Create log file
+2017-06-16 23:50:00Z T1OEEDB_CHK log  Program Start
+2017-06-16 23:50:00Z T1OEEDB_CHK log  Program END 
+
+Create log file
+2017-06-16 23:50:00Z T1OEEDB_CHK log End Program Start
+2017-06-16 23:50:00Z T1OEEDB_CHK log End Program END 
+
+Create log file
+2017-06-16 23:50:00Z T1Alarm_Server_SELF_CHECK   Program Start
+2017-06-16 23:50:00Z T1Alarm_Server_SELF_CHECK   Program END 
+
+Create log file
+2017-06-16 23:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program Start
+2017-06-16 23:50:00Z OEE_0ATPT100_Hourly_Check_alarm_Start  Program END 
+

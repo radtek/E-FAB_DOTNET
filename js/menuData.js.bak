@@ -1,0 +1,130 @@
+function deep1(no,deep)
+{
+  if(deep == 10)
+    return;
+  for(var i=0;i<5;i++)
+  {
+	switch(no)
+	{
+      case 2:
+        eval("pmL"+no+""+deep+""+i+"=new TPopMenu('Menu "+i+"','0','','',' Menu "+deep+" "+i+"');"); 
+	    break;
+ 	  default:
+		eval("pmL"+no+""+deep+""+i+"=new TPopMenu('Menu "+i+"','','','',' Menu "+deep+" "+i+"');"); 
+	}
+       
+  }
+  deep1(no,++deep);
+}
+function deep2(par,no,deep)
+{ 
+  if(deep == 10)
+    return;
+  var j = Math.round(Math.random()*4);
+  for(var i=0;i<5;i++)
+  {
+    eval(par+".Add(pmL"+no+""+deep+""+i+");");
+    if(i== j)
+    {  
+      var d = deep+1;  
+      deep2("pmL"+no+""+deep+""+i,no,d);
+    }
+  }
+}
+//xp style
+function deep1(no,deep)
+{
+  if(deep == 10)
+    return;
+  for(var i=0;i<5;i++)
+  {
+    switch(no)
+    {
+      case 2:
+        eval("pmL"+no+""+deep+""+i+"=new TPopMenu('Menu "+i+"','0','','',' Menu "+deep+" "+i+"');"); 
+        break;
+      default:
+            eval("pmL"+no+""+deep+""+i+"=new TPopMenu('Menu "+i+"','','','',' Menu "+deep+" "+i+"');"); 
+    }
+       
+  }
+  deep1(no,++deep);
+}        
+        
+var mm0 = new TMainMenu('mm0','horizontal');
+//mm0.SetWidth(500);
+
+var pmFileSharing = new TPopMenu('遠距教學檔案共享','5','','','檔案共享平台');
+
+var pmIcon00 = new TPopMenu('檔案上傳','','f',"targetWindow('upload.aspx','mainiframe')",'檔案上傳');
+//var pmFav00 = new TPopMenu('Favorites','../img/favorites.gif','','','favorites'); 
+//var pmHist00 = new TPopMenu('History','../img/history.gif','','','History');
+//var pmHome00 = new TPopMenu('Home','../img/home.gif','','','Home');
+//var pmSep00 = new TPopMenu('-','','','','');
+//var pmRef00 = new TPopMenu('Refresh','../img/refresh.gif','','','Refresh');
+//var pmStop00 = new TPopMenu('Stop','../img/stop.gif','','','Stop');
+
+var pmOpen00 = new TPopMenu('檔案搜尋','','f',"targetWindow('search.aspx?FILE_TYPE=ALL','mainiframe')",'檔案搜尋');
+//var pmSame00 = new TPopMenu('in same window','','a','index.html','Open page in same window');
+//var pmDiv00 = new TPopMenu('in new window','','f',"targetWindow('index.html','mainiframe')",'Open page in new window');
+//var pmL00 = new TPopMenu('Long popup menu','','','','Popup menu demo');
+var pmGoToMainPage = new TPopMenu('平台首頁','','f',"targetWindow('CIM_PP_AT.aspx','mainiframe')",'遠距平台首頁');
+
+
+var pmDocument = new TPopMenu('遠距教學相關資訊','','','','遠距教學相關資訊');
+var pmDocument_List = new TPopMenu('教學文件','','','','教學文件');
+var pmDocument_WebSite = new TPopMenu('相關網站','','','','相關網站');
+var pmDocument_NetMeetingConfig = new TPopMenu('NetMeeting安裝設定','','f',"targetWindow('./Document_Link/NETMEETING_INST/netmeet_config.htm','mainiframe')",'NetMeeting設定');
+var pmDocument_NetMeetingHowToUse = new TPopMenu('NetMeeting使用方法','','f',"targetWindow('/Distance/Document_Link/NETMEETING_UASAGE/netmeet_usage.htm','mainiframe')",'NetMeeting教學');
+var pmDocument_TrustView = new TPopMenu('TrustView加密介紹','','f',"targetWindow('/Distance/Document_Link/TrustView/TrustView.htm','mainiframe')",'TrustView文件加密介紹');
+var pmTrustView = new TPopMenu('TrustView System','','f',"newWindow('http://inlcndrm01/innolux/')",'加密網站');
+var pmDistance_Intro = new TPopMenu('遠距教學平台介紹','','f',"targetWindow('/Distance/Document_Link/Distance_Intro/Distance_Introduction.htm','mainiframe')",'遠距教學平台介紹');
+
+
+var pmInnoWiki = new TPopMenu('InnoWiki群創百科','','','','InnoWiki群創百科');
+
+var pmInnoWiki_Main = new TPopMenu('InnoWiki登錄首頁','','f',"newWindow('InnoWiki.aspx','mainiframe')",'InnoWiki首頁');
+var pmInnoWiki_Intro = new TPopMenu('InnoWiki系統介紹','','f',"newWindow('InnoWiki_Intro.aspx','mainiframe')",'InnoWiki系統介紹');
+var pmInnoWiki_FAQ = new TPopMenu('InnoWiki發文說明','','f',"newWindow('InnoWiki_FAQ.aspx','mainiframe')",'InnoWiki發文說明');
+
+//var pmAbout00 = new TPopMenu('About','','f',"alert('Implement by Bunny')",'About this program');
+//var pmAbout00 = new TPopMenu('About','','f',"alert('Implement by Bunny')",'About this program');
+
+//檔案共享平臺(pmFileSharing)
+mm0.Add(pmFileSharing);
+pmFileSharing.Add(pmIcon00);
+pmFileSharing.Add(pmOpen00);
+pmFileSharing.Add(pmGoToMainPage);
+
+
+//遠距教學文件(pmDocument)
+mm0.Add(pmDocument);
+pmDocument.Add(pmDocument_List);
+pmDocument_List.Add(pmDocument_NetMeetingConfig);
+pmDocument_List.Add(pmDocument_NetMeetingHowToUse);
+pmDocument_List.Add(pmDocument_TrustView);
+pmDocument_List.Add(pmDistance_Intro);
+pmDocument.Add(pmDocument_WebSite);
+pmDocument_WebSite.Add(pmTrustView);
+//pmIcon00.Add(pmFav00);
+//pmIcon00.Add(pmHist00);
+//pmIcon00.Add(pmHome00);
+//pmIcon00.Add(pmSep00);
+//pmIcon00.Add(pmRef00);
+//pmIcon00.Add(pmStop00);
+//pmDemo00.Add(pmSep00);
+
+//pmOpen00.Add(pmSame00);
+//pmOpen00.Add(pmDiv00);
+//pmDemo00.Add(pmL00);
+
+//InnoWiki群創百科
+mm0.Add(pmInnoWiki);
+pmInnoWiki.Add(pmInnoWiki_Main);
+pmInnoWiki.Add(pmInnoWiki_Intro);
+pmInnoWiki.Add(pmInnoWiki_FAQ);
+//pmAlert00.Add(pmAbout00);
+//mm0.Add(pmGoToMainPage);
+
+//pmHelp00.Add(pmAbout00);
+//end of xp style      

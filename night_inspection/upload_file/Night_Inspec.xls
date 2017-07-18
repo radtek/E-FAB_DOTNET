@@ -1,0 +1,23 @@
+ <html>  <head><meta http-equiv='Content-Type' content='text/html; charset=big5'></head>  <body> <div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">ROWNUM</th><th scope="col">SN</th><th scope="col">RECORD_PERSON</th><th scope="col">START_TIME</th><th scope="col">ABNORMAL_TYPE</th><th scope="col">ABNORMAL_AREA</th><th scope="col">DEP</th><th scope="col">ABNORMAL_DESCRIPTION</th><th scope="col">AREA_OWNER</th><th scope="col">AREA_OWNER_PHONE</th><th scope="col">POLICY</th><th scope="col">OPEN_CLOSE_FLAG</th><th scope="col">CLOSE_PERSON</th><th scope="col">DTTM_CRESTE</th><th scope="col">DTTM_CLOSE</th>
+		</tr><tr>
+			<td>1</td><td>20100609135056</td><td>張三</td><td>2010/6/10 下午 01:50:00</td><td>內部管理</td><td>E4</td><td>Beol</td><td>異常狀況敘述* </td><td>通知廠區負責人* </td><td>N/A</td><td>&nbsp;</td><td>Open</td><td>&nbsp;</td><td>2010/6/9 下午 01:51:53</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>2</td><td>20100610121938</td><td>紀錄人員*</td><td>2010/6/10 下午 12:19:00</td><td>內部管理</td><td>E4</td><td>Beol</td><td>異常狀況敘述* </td><td>謝正一</td><td>513-64179</td><td>&nbsp;</td><td>Open</td><td>&nbsp;</td><td>2010/6/10 下午 12:21:51</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>3</td><td>20100609181135</td><td>FFFFFF</td><td>2010/6/9 下午 06:11:00</td><td>內部管理</td><td>E4</td><td>Beol</td><td>異常狀況敘述* </td><td>通知廠區負責人* </td><td>N/A</td><td>&nbsp;</td><td>Open</td><td>&nbsp;</td><td>2010/6/9 下午 06:12:42</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>4</td><td>20100609180618</td><td>新增</td><td>2010/6/9 下午 06:06:00</td><td>內部管理</td><td>E4</td><td>Beol</td><td>ABCDEFG</td><td>謝正一</td><td>513-64179</td><td>&nbsp;</td><td>Open</td><td>&nbsp;</td><td>2010/6/9 下午 06:07:10</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>5</td><td>20100609165949</td><td>紀錄人員*ZZZZ</td><td>2010/6/9 下午 04:59:00</td><td>內部管理</td><td>E4</td><td>Beol</td><td>BBBBBBB</td><td>謝正一</td><td>513-64179</td><td>&nbsp;</td><td>Open</td><td>&nbsp;</td><td>2010/6/9 下午 05:00:45</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>6</td><td>20100609140443</td><td>紀錄人員*</td><td>2010/6/9 下午 02:04:00</td><td>內部管理</td><td>E4</td><td>Beol</td><td>&nbsp;</td><td>&nbsp;</td><td>N/A</td><td>&nbsp;</td><td>Open</td><td>&nbsp;</td><td>2010/6/9 下午 02:05:12</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>7</td><td>20100609140256</td><td>aaaaaa</td><td>2010/6/9 下午 02:02:00</td><td>內部管理</td><td>E4</td><td>Beol</td><td>異常狀況敘述* </td><td>通知廠區負責人* </td><td>N/A</td><td>&nbsp;</td><td>Open</td><td>&nbsp;</td><td>2010/6/9 下午 02:03:28</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>8</td><td>20100609134303</td><td>紀錄人員*</td><td>2010/6/9 下午 01:43:00</td><td>內部管理</td><td>E4</td><td>Beol</td><td>異常狀況敘述* </td><td>謝正一</td><td>513-64179</td><td>矯正對策* </td><td>Open</td><td>&nbsp;</td><td>2010/6/9 下午 01:45:27</td><td>&nbsp;</td>
+		</tr>
+	</table>
+</div> </body> </html>

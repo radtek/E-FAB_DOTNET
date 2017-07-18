@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MenuMasterPage.master.cs"
+    Inherits="MasterPages_MenuMasterPage" %>
+<%@ Register Assembly="System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
+    Namespace="System.Web.UI" TagPrefix="asp" %>
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+<%@ Register Src="~/MasterPages/Header.ascx" TagPrefix="innolux" TagName="Header" %>
+<%@ Register Src="~/MasterPages/HeaderMenuBar.ascx" TagPrefix="innolux" TagName="HeaderMenuBar" %>
+<%@ Register Src="~/MasterPages/Footer.ascx" TagPrefix="innolux" TagName="Footer" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>CIM Subsystem Platform</title>
+    <style type="text/css">
+		 html { overflow:hidden; }
+    </style>   
+</head>
+<body onload="CollectGarbage();">
+    <form id="mainForm" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>      
+       
+       <telerik:RadFormDecorator ID="RadFormDecorator1" runat="server" Skin="Web20" /> 
+
+        <telerik:RadSplitter ID="radSplitter1" runat="server" Skin="Office2007" Orientation="Horizontal"
+            BorderStyle="None" FullScreenMode="true" VisibleDuringInit="False" >
+            <telerik:RadPane ID="Radpane1" runat="server" Scrolling="None" Height="110px" BorderStyle="none" >
+                <innolux:Header runat="Server" ID="header" />
+            </telerik:RadPane>
+            <telerik:RadSplitBar ID="RadSplitBar1" runat="server" CollapseMode="Forward" BorderStyle="none" />
+            <telerik:RadPane ID="RadPane3" runat="server" Scrolling="None" BorderStyle="none" Width="97%">
+                <telerik:RadSplitter ID="RadSplitter2" runat="server" Orientation="Horizontal" BorderStyle="none" width="100%">                  
+                    <telerik:RadPane ID="RadPane4" runat="server" Height="27px" Scrolling="None" Width="100%" BorderStyle="none">
+                        <innolux:HeaderMenuBar runat="server" ID="hearderMenuBar" /> 
+                    </telerik:RadPane>                    
+                    
+                    <telerik:RadPane ID="RadPane2" runat="server" Scrolling="None" BorderStyle="none" Width="100%">
+                        <asp:ContentPlaceHolder ID="mainContentplaceholder" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </telerik:RadPane>
+                    
+                </telerik:RadSplitter>
+            </telerik:RadPane>
+        </telerik:RadSplitter>
+        <br />
+       <%--</div>--%> 
+    </form>
+</body>
+</html>

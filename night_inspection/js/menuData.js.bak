@@ -1,0 +1,165 @@
+function deep1(no,deep)
+{
+  if(deep == 10)
+    return;
+  for(var i=0;i<5;i++)
+  {
+	switch(no)
+	{
+      case 2:
+        eval("pmL"+no+""+deep+""+i+"=new TPopMenu('Menu "+i+"','0','','',' Menu "+deep+" "+i+"');"); 
+	    break;
+ 	  default:
+		eval("pmL"+no+""+deep+""+i+"=new TPopMenu('Menu "+i+"','','','',' Menu "+deep+" "+i+"');"); 
+	}
+       
+  }
+  deep1(no,++deep);
+}
+function deep2(par,no,deep)
+{ 
+  if(deep == 10)
+    return;
+  var j = Math.round(Math.random()*4);
+  for(var i=0;i<5;i++)
+  {
+    eval(par+".Add(pmL"+no+""+deep+""+i+");");
+    if(i== j)
+    {  
+      var d = deep+1;  
+      deep2("pmL"+no+""+deep+""+i,no,d);
+    }
+  }
+}
+//xp style
+function deep1(no,deep)
+{
+  if(deep == 10)
+    return;
+  for(var i=0;i<5;i++)
+  {
+    switch(no)
+    {
+      case 2:
+        eval("pmL"+no+""+deep+""+i+"=new TPopMenu('Menu "+i+"','0','','',' Menu "+deep+" "+i+"');"); 
+        break;
+      default:
+            eval("pmL"+no+""+deep+""+i+"=new TPopMenu('Menu "+i+"','','','',' Menu "+deep+" "+i+"');"); 
+    }
+       
+  }
+  deep1(no,++deep);
+}        
+        
+var mm0 = new TMainMenu('mm0','horizontal');
+//mm0.SetWidth(500);
+var pmselect_area = new TPopMenu('區域','5','','','會議記錄E化平台');
+var area_ary = new TPopMenu('Array','','a',"../ary/main.aspx",'Array');
+var area_cell = new TPopMenu('Cell','','a',"../cell/main.aspx",'Cell');
+var area_cf = new TPopMenu('CF','','a',"../cf/main.aspx",'CF');
+var area_Yield = new TPopMenu('Yield','','a',"../Yield/main.aspx",'Yield');
+var area_Productivity = new TPopMenu('Productivity','','a',"../Productivity/main.aspx",'Productivity');
+
+
+
+
+
+var pmFileSharing = new TPopMenu('會議記錄功能','5','','','會議記錄E化平台');
+
+
+var pmIcon00 = new TPopMenu('查詢會議記錄','','f',"targetWindow('add_query.aspx','mainiframe')",'新增/查詢會議記錄');
+//var pmFav00 = new TPopMenu('Favorites','../img/favorites.gif','','','favorites'); 
+//var pmHist00 = new TPopMenu('History','../img/history.gif','','','History');
+//var pmHome00 = new TPopMenu('Home','../img/home.gif','','','Home');
+//var pmSep00 = new TPopMenu('-','','','','');
+//var pmRef00 = new TPopMenu('Refresh','../img/refresh.gif','','','Refresh');
+//var pmStop00 = new TPopMenu('Stop','../img/stop.gif','','','Stop');
+
+var pmOpen00 = new TPopMenu('維護會議記錄','','f',"targetWindow('new_meeting2.aspx','mainiframe')",'維護會議記錄');
+//var pmSame00 = new TPopMenu('in same window','','a','index.html','Open page in same window');
+//var pmDiv00 = new TPopMenu('in new window','','f',"targetWindow('index.html','mainiframe')",'Open page in new window');
+//var pmL00 = new TPopMenu('Long popup menu','','','','Popup menu demo');
+var pmGoToMainPage = new TPopMenu('寄送會議紀錄','','f',"targetWindow('mail_meeting.aspx','mainiframe')",'寄送會議紀錄');
+
+var E_Meeting_function_list = new TPopMenu('E-Meeting','','','','E-Meeting');
+
+var E_Meeting_function_homepage = new TPopMenu('E-Meeting首頁','','f',"targetWindow('e_meeting_home.aspx','mainiframe')",'E-Meeting首頁');
+
+var E_Meeting_function_Query = new TPopMenu('檔案搜尋','','f',"targetWindow('e_meeting_query.aspx','mainiframe')",'E-Meeting 上傳搜尋');
+var E_Meeting_function_upload= new TPopMenu('檔案上傳','','f',"targetWindow('e_meeting_upload.aspx','mainiframe')",'E-Meeting 檔案上傳');
+
+
+//var pmDocument_List = new TPopMenu('教學文件','','f',"targetWindow('teaching_document.aspx','mainiframe')",'教學文件');
+
+
+//var pmDocument = new TPopMenu('教學相關資訊','','',"targetWindow('mail_meeting.aspx','mainiframe')",'教學相關資訊');
+var pmDocument_List = new TPopMenu('教學文件','','f',"targetWindow('teaching_document.aspx','mainiframe')",'教學文件');
+
+//var pmDocument_NetMeetingConfig = new TPopMenu('NetMeeting安裝設定','','f',"targetWindow('/Distance/Document_Link/NETMEETING_INST/netmeet_config.htm','mainiframe')",'NetMeeting設定');
+
+//var pmTrustView = new TPopMenu('TrustView System','','f',"newWindow('http://inlcndrm01/innolux/')",'加密網站');
+//var pmDistance_Intro = new TPopMenu('遠距教學平台介紹','','f',"targetWindow('/Distance/Document_Link/Distance_Intro/Distance_Introduction.htm','mainiframe')",'遠距教學平台介紹');
+
+
+//var pmInnoWiki = new TPopMenu('InnoWiki群創百科','','','','InnoWiki群創百科');
+
+//var pmInnoWiki_Main = new TPopMenu('InnoWiki首頁','','f',"newWindow('InnoWiki.aspx','mainiframe')",'InnoWiki首頁');
+//var pmInnoWiki_Intro = new TPopMenu('InnoWiki系統介紹','','f',"newWindow('InnoWiki_Intro.aspx','mainiframe')",'InnoWiki系統介紹');
+
+//var pmAbout00 = new TPopMenu('About','','f',"alert('Implement by Bunny')",'About this program');
+//var pmAbout00 = new TPopMenu('About','','f',"alert('Implement by Bunny')",'About this program');
+//新增登入區域
+mm0.Add(pmselect_area);
+pmselect_area.Add(area_ary);
+pmselect_area.Add(area_cell);
+pmselect_area.Add(area_cf);
+pmselect_area.Add(area_Yield);
+
+
+
+//Meeting System Function (Meeting System)
+mm0.Add(pmFileSharing);
+pmFileSharing.Add(pmIcon00);
+pmFileSharing.Add(pmOpen00);
+pmFileSharing.Add(pmGoToMainPage);
+pmFileSharing.Add(pmDocument_List);
+
+
+//E-Meeting Combine(E-Meeting Combine)
+mm0.Add( E_Meeting_function_list);
+E_Meeting_function_list.Add(E_Meeting_function_homepage);
+E_Meeting_function_list.Add(E_Meeting_function_Query);
+E_Meeting_function_list.Add(E_Meeting_function_upload);
+
+
+
+//會議記錄教學文件(pmDocument)
+//mm0.Add(pmDocument);
+//pmDocument.Add(pmDocument_List);
+//pmDocument_List.Add(pmDocument_NetMeetingConfig);
+
+
+//pmDocument_List.Add(pmDistance_Intro);
+//pmDocument.Add(pmDocument_WebSite);
+
+//pmIcon00.Add(pmFav00);
+//pmIcon00.Add(pmHist00);
+//pmIcon00.Add(pmHome00);
+//pmIcon00.Add(pmSep00);
+//pmIcon00.Add(pmRef00);
+//pmIcon00.Add(pmStop00);
+//pmDemo00.Add(pmSep00);
+
+//pmOpen00.Add(pmSame00);
+//pmOpen00.Add(pmDiv00);
+//pmDemo00.Add(pmL00);
+
+//InnoWiki群創百科
+//mm0.Add(pmInnoWiki);
+//pmInnoWiki.Add(pmInnoWiki_Main);
+//pmInnoWiki.Add(pmInnoWiki_Intro);
+//pmAlert00.Add(pmAbout00);
+//mm0.Add(pmGoToMainPage);
+
+//pmHelp00.Add(pmAbout00);
+//end of xp style      

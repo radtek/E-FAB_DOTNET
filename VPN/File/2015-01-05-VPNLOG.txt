@@ -1,0 +1,111 @@
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-302013: Built inbound TCP connection 1478862 for inside:172.16.12.20/3888 (172.16.12.20/3888) to identity:172.16.31.249/4433 (172.16.31.249/4433)
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-725001: Starting SSL handshake with client inside:172.16.12.20/3888 for TLSv1 session.
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-725002: Device completed SSL handshake with client inside:172.16.12.20/3888
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-302013: Built inbound TCP connection 1478863 for inside:172.16.12.20/3889 (172.16.12.20/3889) to identity:172.16.31.249/4433 (172.16.31.249/4433)
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-725001: Starting SSL handshake with client inside:172.16.12.20/3889 for TLSv1 session.
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-725002: Device completed SSL handshake with client inside:172.16.12.20/3889
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-113015: AAA user authentication Rejected : reason = Invalid password : local database : user = nedchang
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-611102: User authentication failed: Uname: nedchang
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-605004: Login denied from 172.16.12.20/3889 to inside:172.16.31.249/4433 for user "nedchang"
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-725007: SSL session with client inside:172.16.12.20/3889 terminated.
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-302014: Teardown TCP connection 1478863 for inside:172.16.12.20/3889 to identity:172.16.31.249/4433 duration 0:00:00 bytes 1056 TCP FINs
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-725007: SSL session with client inside:172.16.12.20/3888 terminated.
+2015-01-05 00:00:00	Local0.Info	172.16.31.249	Jan 05 2015 00:00:00: %ASA-6-302014: Teardown TCP connection 1478862 for inside:172.16.12.20/3888 to identity:172.16.31.249/4433 duration 0:00:00 bytes 577 TCP Reset-I
+2015-01-05 00:00:29	Local0.Info	172.16.31.249	Jan 05 2015 00:00:30: %ASA-6-302016: Teardown UDP connection 1478859 for inside:172.16.19.238/53039 to identity:172.16.31.249/161 duration 0:02:03 bytes 222
+2015-01-05 00:00:38	Local0.Info	172.16.31.249	Jan 05 2015 00:00:38: %ASA-6-302020: Built inbound ICMP connection for faddr 172.16.19.238/29223 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:00:38	Local0.Info	172.16.31.249	Jan 05 2015 00:00:38: %ASA-6-302015: Built inbound UDP connection 1478865 for inside:172.16.19.238/44979 (172.16.19.238/44979) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:00:38	Local0.Info	172.16.31.249	Jan 05 2015 00:00:38: %ASA-6-302021: Teardown ICMP connection for faddr 172.16.19.238/29223 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:01:06	Local0.Info	172.16.31.249	Jan 05 2015 00:01:06: %ASA-6-302015: Built inbound UDP connection 1478866 for inside:NNM/3785 (NNM/3785) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:01:25	Local0.Info	172.16.31.249	Jan 05 2015 00:01:25: %ASA-6-302020: Built inbound ICMP connection for faddr 172.16.19.238/13097 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:01:25	Local0.Info	172.16.31.249	Jan 05 2015 00:01:25: %ASA-6-302015: Built inbound UDP connection 1478868 for inside:172.16.19.238/46966 (172.16.19.238/46966) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:01:25	Local0.Info	172.16.31.249	Jan 05 2015 00:01:25: %ASA-6-302021: Teardown ICMP connection for faddr 172.16.19.238/13097 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:01:25	Local0.Info	172.16.31.249	Jan 05 2015 00:01:25: %ASA-6-302016: Teardown UDP connection 1478861 for inside:172.16.19.238/42219 to identity:172.16.31.249/161 duration 0:02:03 bytes 222
+2015-01-05 00:01:59	Local0.Info	172.16.31.249	Jan 05 2015 00:01:59: %ASA-6-106015: Deny TCP (no connection) from 222.186.15.72/30627 to 60.249.75.223/22 flags RST  on interface outside
+2015-01-05 00:02:16	Local0.Error	172.16.31.249	Jan 05 2015 00:02:17: %ASA-3-710003: TCP access denied by ACL from 1.57.187.21/33377 to outside:60.249.75.223/23
+2015-01-05 00:02:17	Local0.Info	172.16.31.249	Jan 05 2015 00:02:17: %ASA-6-302020: Built inbound ICMP connection for faddr 172.16.19.238/58410 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:02:17	Local0.Info	172.16.31.249	Jan 05 2015 00:02:17: %ASA-6-302015: Built inbound UDP connection 1478870 for inside:172.16.19.238/53327 (172.16.19.238/53327) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:02:17	Local0.Info	172.16.31.249	Jan 05 2015 00:02:17: %ASA-6-302021: Teardown ICMP connection for faddr 172.16.19.238/58410 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:02:19	Local0.Error	172.16.31.249	Jan 05 2015 00:02:20: %ASA-3-710003: TCP access denied by ACL from 1.57.187.21/33377 to outside:60.249.75.223/23
+2015-01-05 00:02:20	Local0.Error	172.16.31.249	Jan 05 2015 00:02:20: %ASA-3-710003: TCP access denied by ACL from 113.12.167.55/52178 to outside:60.249.75.223/23
+2015-01-05 00:02:25	Local0.Error	172.16.31.249	Jan 05 2015 00:02:26: %ASA-3-710003: TCP access denied by ACL from 1.57.187.21/33377 to outside:60.249.75.223/23
+2015-01-05 00:02:29	Local0.Error	172.16.31.249	Jan 05 2015 00:02:29: %ASA-3-710003: TCP access denied by ACL from 113.12.167.55/52178 to outside:60.249.75.223/23
+2015-01-05 00:02:40	Local0.Info	172.16.31.249	Jan 05 2015 00:02:41: %ASA-6-302016: Teardown UDP connection 1478865 for inside:172.16.19.238/44979 to identity:172.16.31.249/161 duration 0:02:02 bytes 222
+2015-01-05 00:03:08	Local0.Info	172.16.31.249	Jan 05 2015 00:03:08: %ASA-6-302016: Teardown UDP connection 1478866 for inside:NNM/3785 to identity:172.16.31.249/161 duration 0:02:02 bytes 159
+2015-01-05 00:03:25	Local0.Info	172.16.31.249	Jan 05 2015 00:03:25: %ASA-6-302020: Built inbound ICMP connection for faddr 172.16.19.238/40236 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:03:25	Local0.Info	172.16.31.249	Jan 05 2015 00:03:25: %ASA-6-302015: Built inbound UDP connection 1478872 for inside:172.16.19.238/38044 (172.16.19.238/38044) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:03:25	Local0.Info	172.16.31.249	Jan 05 2015 00:03:25: %ASA-6-302021: Teardown ICMP connection for faddr 172.16.19.238/40236 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:03:28	Local0.Info	172.16.31.249	Jan 05 2015 00:03:28: %ASA-6-302016: Teardown UDP connection 1478868 for inside:172.16.19.238/46966 to identity:172.16.31.249/161 duration 0:02:03 bytes 394
+2015-01-05 00:03:45	Local0.Info	172.16.31.249	Jan 05 2015 00:03:45: %ASA-6-302013: Built inbound TCP connection 1478873 for inside:172.16.12.20/3947 (172.16.12.20/3947) to identity:172.16.31.249/4433 (172.16.31.249/4433)
+2015-01-05 00:03:45	Local0.Info	172.16.31.249	Jan 05 2015 00:03:45: %ASA-6-725001: Starting SSL handshake with client inside:172.16.12.20/3947 for TLSv1 session.
+2015-01-05 00:03:45	Local0.Info	172.16.31.249	Jan 05 2015 00:03:45: %ASA-6-725002: Device completed SSL handshake with client inside:172.16.12.20/3947
+2015-01-05 00:03:45	Local0.Info	172.16.31.249	Jan 05 2015 00:03:45: %ASA-6-302013: Built inbound TCP connection 1478874 for inside:172.16.12.20/3948 (172.16.12.20/3948) to identity:172.16.31.249/4433 (172.16.31.249/4433)
+2015-01-05 00:03:45	Local0.Info	172.16.31.249	Jan 05 2015 00:03:45: %ASA-6-725001: Starting SSL handshake with client inside:172.16.12.20/3948 for TLSv1 session.
+2015-01-05 00:03:45	Local0.Info	172.16.31.249	Jan 05 2015 00:03:45: %ASA-6-725002: Device completed SSL handshake with client inside:172.16.12.20/3948
+2015-01-05 00:03:45	Local0.Info	172.16.31.249	Jan 05 2015 00:03:45: %ASA-6-113015: AAA user authentication Rejected : reason = Invalid password : local database : user = nedchang
+2015-01-05 00:03:45	Local0.Info	172.16.31.249	Jan 05 2015 00:03:45: %ASA-6-611102: User authentication failed: Uname: nedchang
+2015-01-05 00:03:45	Local0.Info	172.16.31.249	Jan 05 2015 00:03:45: %ASA-6-605004: Login denied from 172.16.12.20/3948 to inside:172.16.31.249/4433 for user "nedchang"
+2015-01-05 00:03:45	Local0.Info	172.16.31.249	Jan 05 2015 00:03:45: %ASA-6-725007: SSL session with client inside:172.16.12.20/3948 terminated.
+2015-01-05 00:04:19	Local0.Info	172.16.31.249	Jan 05 2015 00:04:19: %ASA-6-302016: Teardown UDP connection 1478870 for inside:172.16.19.238/53327 to identity:172.16.31.249/161 duration 0:02:02 bytes 222
+2015-01-05 00:04:21	Local0.Info	172.16.31.249	Jan 05 2015 00:04:21: %ASA-6-302020: Built inbound ICMP connection for faddr 172.16.19.238/24110 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:04:21	Local0.Info	172.16.31.249	Jan 05 2015 00:04:21: %ASA-6-302015: Built inbound UDP connection 1478876 for inside:172.16.19.238/37334 (172.16.19.238/37334) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:04:21	Local0.Info	172.16.31.249	Jan 05 2015 00:04:21: %ASA-6-302021: Teardown ICMP connection for faddr 172.16.19.238/24110 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:04:30	Local0.Info	172.16.31.249	Jan 05 2015 00:04:30: %ASA-6-302014: Teardown TCP connection 1478874 for inside:172.16.12.20/3948 to identity:172.16.31.249/4433 duration 0:00:45 bytes 1056 TCP Reset-O
+2015-01-05 00:04:30	Local0.Info	172.16.31.249	Jan 05 2015 00:04:30: %ASA-6-106015: Deny TCP (no connection) from 172.16.12.20/3948 to 172.16.31.249/4433 flags FIN ACK  on interface inside
+2015-01-05 00:04:30	Local0.Info	172.16.31.249	Jan 05 2015 00:04:30: %ASA-6-302014: Teardown TCP connection 1478873 for inside:172.16.12.20/3947 to identity:172.16.31.249/4433 duration 0:00:45 bytes 624 TCP Reset-I
+2015-01-05 00:04:30	Local0.Info	172.16.31.249	Jan 05 2015 00:04:30: %ASA-6-725007: SSL session with client inside:172.16.12.20/3947 terminated.
+2015-01-05 00:04:36	Local0.Info	172.16.31.249	Jan 05 2015 00:04:36: %ASA-6-302015: Built inbound UDP connection 1478877 for inside:NNM/4545 (NNM/4545) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:05:00	Local0.Info	172.16.31.249	Jan 05 2015 00:05:00: %ASA-6-302013: Built inbound TCP connection 1478878 for inside:172.16.12.20/3958 (172.16.12.20/3958) to identity:172.16.31.249/4433 (172.16.31.249/4433)
+2015-01-05 00:05:00	Local0.Info	172.16.31.249	Jan 05 2015 00:05:00: %ASA-6-725001: Starting SSL handshake with client inside:172.16.12.20/3958 for TLSv1 session.
+2015-01-05 00:05:00	Local0.Info	172.16.31.249	Jan 05 2015 00:05:00: %ASA-6-725002: Device completed SSL handshake with client inside:172.16.12.20/3958
+2015-01-05 00:05:00	Local0.Info	172.16.31.249	Jan 05 2015 00:05:00: %ASA-6-302013: Built inbound TCP connection 1478879 for inside:172.16.12.20/3959 (172.16.12.20/3959) to identity:172.16.31.249/4433 (172.16.31.249/4433)
+2015-01-05 00:05:00	Local0.Info	172.16.31.249	Jan 05 2015 00:05:00: %ASA-6-725001: Starting SSL handshake with client inside:172.16.12.20/3959 for TLSv1 session.
+2015-01-05 00:05:00	Local0.Info	172.16.31.249	Jan 05 2015 00:05:00: %ASA-6-725002: Device completed SSL handshake with client inside:172.16.12.20/3959
+2015-01-05 00:05:00	Local0.Info	172.16.31.249	Jan 05 2015 00:05:00: %ASA-6-113015: AAA user authentication Rejected : reason = Invalid password : local database : user = nedchang
+2015-01-05 00:05:00	Local0.Info	172.16.31.249	Jan 05 2015 00:05:00: %ASA-6-611102: User authentication failed: Uname: nedchang
+2015-01-05 00:05:00	Local0.Info	172.16.31.249	Jan 05 2015 00:05:00: %ASA-6-605004: Login denied from 172.16.12.20/3959 to inside:172.16.31.249/4433 for user "nedchang"
+2015-01-05 00:05:00	Local0.Info	172.16.31.249	Jan 05 2015 00:05:00: %ASA-6-725007: SSL session with client inside:172.16.12.20/3959 terminated.
+2015-01-05 00:05:21	Local0.Info	172.16.31.249	Jan 05 2015 00:05:21: %ASA-6-302020: Built inbound ICMP connection for faddr 172.16.19.238/15152 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:05:21	Local0.Info	172.16.31.249	Jan 05 2015 00:05:21: %ASA-6-302015: Built inbound UDP connection 1478881 for inside:172.16.19.238/33423 (172.16.19.238/33423) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:05:21	Local0.Info	172.16.31.249	Jan 05 2015 00:05:21: %ASA-6-302021: Teardown ICMP connection for faddr 172.16.19.238/15152 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:05:28	Local0.Info	172.16.31.249	Jan 05 2015 00:05:28: %ASA-6-302016: Teardown UDP connection 1478872 for inside:172.16.19.238/38044 to identity:172.16.31.249/161 duration 0:02:03 bytes 222
+2015-01-05 00:05:57	Local0.Info	172.16.31.249	Jan 05 2015 00:05:57: %ASA-6-302015: Built inbound UDP connection 1478882 for inside:NNM/2482 (NNM/2482) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:05:57	Local0.Info	172.16.31.249	Jan 05 2015 00:05:58: %ASA-6-302015: Built inbound UDP connection 1478883 for inside:NNM/2624 (NNM/2624) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:06:02	Local0.Info	172.16.31.249	Jan 05 2015 00:06:02: %ASA-6-302014: Teardown TCP connection 1478878 for inside:172.16.12.20/3958 to identity:172.16.31.249/4433 duration 0:01:02 bytes 577 Connection timeout
+2015-01-05 00:06:02	Local0.Info	172.16.31.249	Jan 05 2015 00:06:02: %ASA-6-725007: SSL session with client inside:172.16.12.20/3958 terminated.
+2015-01-05 00:06:24	Local0.Info	172.16.31.249	Jan 05 2015 00:06:24: %ASA-6-302016: Teardown UDP connection 1478876 for inside:172.16.19.238/37334 to identity:172.16.31.249/161 duration 0:02:02 bytes 222
+2015-01-05 00:06:24	Local0.Info	172.16.31.249	Jan 05 2015 00:06:24: %ASA-6-302020: Built inbound ICMP connection for faddr 172.16.19.238/64561 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:06:24	Local0.Info	172.16.31.249	Jan 05 2015 00:06:24: %ASA-6-302015: Built inbound UDP connection 1478885 for inside:172.16.19.238/52916 (172.16.19.238/52916) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:06:24	Local0.Info	172.16.31.249	Jan 05 2015 00:06:24: %ASA-6-302021: Teardown ICMP connection for faddr 172.16.19.238/64561 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:06:39	Local0.Info	172.16.31.249	Jan 05 2015 00:06:39: %ASA-6-302016: Teardown UDP connection 1478877 for inside:NNM/4545 to identity:172.16.31.249/161 duration 0:02:02 bytes 173
+2015-01-05 00:06:50	Local0.Info	172.16.31.249	Jan 05 2015 00:06:50: %ASA-6-302014: Teardown TCP connection 1478879 for inside:172.16.12.20/3959 to identity:172.16.31.249/4433 duration 0:01:50 bytes 1056 TCP FINs
+2015-01-05 00:07:22	Local0.Info	172.16.31.249	Jan 05 2015 00:07:23: %ASA-6-302020: Built inbound ICMP connection for faddr 172.16.19.238/44339 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:07:22	Local0.Info	172.16.31.249	Jan 05 2015 00:07:23: %ASA-6-302015: Built inbound UDP connection 1478887 for inside:172.16.19.238/43063 (172.16.19.238/43063) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:07:22	Local0.Info	172.16.31.249	Jan 05 2015 00:07:23: %ASA-6-302021: Teardown ICMP connection for faddr 172.16.19.238/44339 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:07:24	Local0.Info	172.16.31.249	Jan 05 2015 00:07:24: %ASA-6-302016: Teardown UDP connection 1478881 for inside:172.16.19.238/33423 to identity:172.16.31.249/161 duration 0:02:02 bytes 222
+2015-01-05 00:07:30	Local0.Info	172.16.31.249	Jan 05 2015 00:07:30: %ASA-6-302013: Built inbound TCP connection 1478888 for inside:172.16.12.20/3983 (172.16.12.20/3983) to identity:172.16.31.249/4433 (172.16.31.249/4433)
+2015-01-05 00:07:30	Local0.Info	172.16.31.249	Jan 05 2015 00:07:30: %ASA-6-725001: Starting SSL handshake with client inside:172.16.12.20/3983 for TLSv1 session.
+2015-01-05 00:07:30	Local0.Info	172.16.31.249	Jan 05 2015 00:07:30: %ASA-6-725002: Device completed SSL handshake with client inside:172.16.12.20/3983
+2015-01-05 00:07:30	Local0.Info	172.16.31.249	Jan 05 2015 00:07:30: %ASA-6-302013: Built inbound TCP connection 1478889 for inside:172.16.12.20/3984 (172.16.12.20/3984) to identity:172.16.31.249/4433 (172.16.31.249/4433)
+2015-01-05 00:07:30	Local0.Info	172.16.31.249	Jan 05 2015 00:07:30: %ASA-6-725001: Starting SSL handshake with client inside:172.16.12.20/3984 for TLSv1 session.
+2015-01-05 00:07:30	Local0.Info	172.16.31.249	Jan 05 2015 00:07:30: %ASA-6-725002: Device completed SSL handshake with client inside:172.16.12.20/3984
+2015-01-05 00:07:30	Local0.Info	172.16.31.249	Jan 05 2015 00:07:30: %ASA-6-113015: AAA user authentication Rejected : reason = Invalid password : local database : user = nedchang
+2015-01-05 00:07:30	Local0.Info	172.16.31.249	Jan 05 2015 00:07:30: %ASA-6-611102: User authentication failed: Uname: nedchang
+2015-01-05 00:07:30	Local0.Info	172.16.31.249	Jan 05 2015 00:07:30: %ASA-6-605004: Login denied from 172.16.12.20/3984 to inside:172.16.31.249/4433 for user "nedchang"
+2015-01-05 00:07:30	Local0.Info	172.16.31.249	Jan 05 2015 00:07:30: %ASA-6-725007: SSL session with client inside:172.16.12.20/3984 terminated.
+2015-01-05 00:07:34	Local0.Info	172.16.31.249	Jan 05 2015 00:07:35: %ASA-6-302010: 7 in use, 733 most used
+2015-01-05 00:08:00	Local0.Info	172.16.31.249	Jan 05 2015 00:08:01: %ASA-6-302016: Teardown UDP connection 1478882 for inside:NNM/2482 to identity:172.16.31.249/161 duration 0:02:03 bytes 159
+2015-01-05 00:08:00	Local0.Info	172.16.31.249	Jan 05 2015 00:08:01: %ASA-6-302016: Teardown UDP connection 1478883 for inside:NNM/2624 to identity:172.16.31.249/161 duration 0:02:03 bytes 159
+2015-01-05 00:08:15	Local0.Info	172.16.31.249	Jan 05 2015 00:08:15: %ASA-6-302014: Teardown TCP connection 1478889 for inside:172.16.12.20/3984 to identity:172.16.31.249/4433 duration 0:00:45 bytes 1056 TCP FINs
+2015-01-05 00:08:15	Local0.Info	172.16.31.249	Jan 05 2015 00:08:15: %ASA-6-725007: SSL session with client inside:172.16.12.20/3983 terminated.
+2015-01-05 00:08:15	Local0.Info	172.16.31.249	Jan 05 2015 00:08:15: %ASA-6-302014: Teardown TCP connection 1478888 for inside:172.16.12.20/3983 to identity:172.16.31.249/4433 duration 0:00:45 bytes 577 TCP Reset-I
+2015-01-05 00:08:15	Local0.Error	172.16.31.249	Jan 05 2015 00:08:16: %ASA-3-710003: TCP access denied by ACL from 80.73.13.51/2914 to outside:60.249.75.223/23
+2015-01-05 00:08:18	Local0.Error	172.16.31.249	Jan 05 2015 00:08:19: %ASA-3-710003: TCP access denied by ACL from 80.73.13.51/2914 to outside:60.249.75.223/23
+2015-01-05 00:08:20	Local0.Info	172.16.31.249	Jan 05 2015 00:08:20: %ASA-6-302020: Built inbound ICMP connection for faddr 172.16.19.238/26165 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:08:20	Local0.Info	172.16.31.249	Jan 05 2015 00:08:20: %ASA-6-302015: Built inbound UDP connection 1478891 for inside:172.16.19.238/59263 (172.16.19.238/59263) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:08:20	Local0.Info	172.16.31.249	Jan 05 2015 00:08:20: %ASA-6-302021: Teardown ICMP connection for faddr 172.16.19.238/26165 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:08:28	Local0.Info	172.16.31.249	Jan 05 2015 00:08:28: %ASA-6-302016: Teardown UDP connection 1478885 for inside:172.16.19.238/52916 to identity:172.16.31.249/161 duration 0:02:04 bytes 394
+2015-01-05 00:09:21	Local0.Info	172.16.31.249	Jan 05 2015 00:09:21: %ASA-6-302020: Built inbound ICMP connection for faddr 172.16.19.238/34359 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:09:21	Local0.Info	172.16.31.249	Jan 05 2015 00:09:21: %ASA-6-302015: Built inbound UDP connection 1478893 for inside:172.16.19.238/47080 (172.16.19.238/47080) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:09:21	Local0.Info	172.16.31.249	Jan 05 2015 00:09:21: %ASA-6-302021: Teardown ICMP connection for faddr 172.16.19.238/34359 gaddr 172.16.31.249/0 laddr 172.16.31.249/0
+2015-01-05 00:09:23	Local0.Info	172.16.31.249	Jan 05 2015 00:09:23: %ASA-6-302015: Built inbound UDP connection 1478894 for inside:NNM/3432 (NNM/3432) to identity:172.16.31.249/161 (172.16.31.249/161)
+2015-01-05 00:09:26	Local0.Info	172.16.31.249	Jan 05 2015 00:09:26: %ASA-6-302016: Teardown UDP connection 1478887 for inside:172.16.19.238/43063 to identity:172.16.31.249/161 duration 0:02:03 bytes 222

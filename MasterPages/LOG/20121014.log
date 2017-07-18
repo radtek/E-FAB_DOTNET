@@ -1,0 +1,1130 @@
+Create log file
+2012-10-14 00:01:00ZArray_Photo Program Start
+1250 log finish
+
+1350 log finish
+
+2012-10-14 00:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 00:03:01ZArray_test_repeat Program Start
+2012-10-14 00:03:01ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 00:10:00Z T0T1 InnoView Add User Program Start
+2012-10-14 00:10:00Z T0T1 InnoView Add User Program END 
+
+Create log file
+2012-10-14 00:20:14Z VPNLOG_PARSER Program Start
+2012-10-14 00:20:14Z VPNLOG_PARSER Program END 
+
+Create log file
+2012-10-14 00:30:00Z T0/T1 RealTimeDept Program Start
+2012-10-14 00:30:00Z T0/T1 RealTimeDept Program END 
+
+Create log file
+2012-10-14 00:41:42Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 00:41:42Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 00:42:35Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 00:42:35Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 00:46:45Z oee_empastcount_purge Program Start
+2012-10-14 00:46:45Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 00:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 00:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 00:50:01Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 00:50:01Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 00:50:03Z SERVER_SELF_CHECK   Program Start
+2012-10-14 00:50:03Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 01:01:00ZArray_Photo Program Start
+1250 log finish
+
+2012-10-14 01:01:04ZArray_Photo Program End
+
+Create log file
+2012-10-14 01:03:00ZArray_test_repeat Program Start
+2012-10-14 01:03:02ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 01:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2012-10-14 01:30:27ZARY_HOLD_LOT Program End
+
+Create log file
+2012-10-14 01:41:16Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 01:41:16Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 01:42:16Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 01:42:16Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 01:44:25Z oee_empastcount_purge Program Start
+2012-10-14 01:44:25Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 01:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 01:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 01:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 01:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 01:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 01:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 02:01:00ZArray_Photo Program Start
+1250 log finish
+
+1650 log finish
+
+2012-10-14 02:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 02:03:00ZArray_test_repeat Program Start
+2012-10-14 02:03:01ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 02:41:15Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 02:41:15Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 02:42:05Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 02:42:05Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 02:44:23Z oee_empastcount_purge Program Start
+2012-10-14 02:44:23Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 02:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 02:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 02:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 02:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 02:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 02:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 03:01:00ZArray_Photo Program Start
+1250 log finish
+
+2012-10-14 03:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 03:03:00ZArray_test_repeat Program Start
+2012-10-14 03:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 03:41:18Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 03:41:18Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 03:42:13Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 03:42:13Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 03:44:23Z oee_empastcount_purge Program Start
+2012-10-14 03:44:23Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 03:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 03:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 03:50:01Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 03:50:01Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 03:50:02Z SERVER_SELF_CHECK   Program Start
+2012-10-14 03:50:02Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 04:01:00ZArray_Photo Program Start
+1250 log finish
+
+2012-10-14 04:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 04:03:00ZArray_test_repeat Program Start
+2012-10-14 04:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 04:41:17Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 04:41:17Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 04:42:13Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 04:42:13Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 04:44:27Z oee_empastcount_purge Program Start
+2012-10-14 04:44:27Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 04:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 04:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 04:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 04:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 04:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 04:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 05:01:00ZArray_Photo Program Start
+2012-10-14 05:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 05:03:00ZArray_test_repeat Program Start
+2012-10-14 05:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 05:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2012-10-14 05:30:16ZARY_HOLD_LOT Program End
+
+Create log file
+2012-10-14 05:41:20Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 05:41:20Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 05:42:12Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 05:42:12Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 05:44:25Z oee_empastcount_purge Program Start
+2012-10-14 05:44:25Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 05:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 05:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 05:50:01Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 05:50:01Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 05:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 05:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 06:01:00ZArray_Photo Program Start
+1150 log finish
+
+2012-10-14 06:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 06:03:00ZArray_test_repeat Program Start
+2012-10-14 06:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 06:41:18Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 06:41:18Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 06:42:21Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 06:42:21Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 06:44:25Z oee_empastcount_purge Program Start
+2012-10-14 06:44:25Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 06:50:41Z ODS_Recover_Lot 145 Lots Program Start
+2012-10-14 06:50:41Z ODS_Recover_Lot 145 Lots Program END 
+
+Create log file
+2012-10-14 06:51:02Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 06:51:02Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 06:51:03Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 06:51:03Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 06:51:04Z SERVER_SELF_CHECK   Program Start
+2012-10-14 06:51:04Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 07:01:00ZArray_Photo Program Start
+1150 log finish
+
+2012-10-14 07:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 07:03:00ZArray_test_repeat Program Start
+2012-10-14 07:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 07:31:55Z OEELH_fixed_data_Daily Program Start
+2012-10-14 07:31:55Z OEELH_fixed_data_Daily Program END 
+
+Create log file
+2012-10-14 07:41:17Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 07:41:17Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 07:42:13Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 07:42:13Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 07:44:20Z oee_empastcount_purge Program Start
+2012-10-14 07:44:20Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 07:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 07:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 07:50:12Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 07:50:12Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 07:50:17Z SERVER_SELF_CHECK   Program Start
+2012-10-14 07:50:17Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 07:50:20Z SERVER_SELF_CHECK Program Start
+SMS log finish
+
+2012-10-14 07:50:20Z SERVER_SELF_CHECK Program End
+
+Create log file
+2012-10-14 08:00:00Z Check_Onduty_Time From Onduty_dotnet2  Program Start
+2012-10-14 08:00:00Z Check_Onduty_Time From Onduty_dotnet2  Program END 
+
+Create log file
+2012-10-14 08:01:00ZArray_Photo Program Start
+1150 log finish
+
+2012-10-14 08:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 08:03:00ZArray_test_repeat Program Start
+2012-10-14 08:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 08:30:00ZHoliday_inout_SMS Program Start
+SMS log finish
+
+2012-10-14 08:30:00ZHoliday_Inout_SMS Program End
+
+Create log file
+2012-10-14 08:32:00ZOEE_EQP_SMS Program Start
+Holiday_OEE_EQP_T0A_SMS log finish
+
+Holiday_OEE_EQP_T1A_SMS log finish
+
+Holiday_OEE_EQP_T1C_SMS log finish
+
+Holiday_OEE_EQP_T1F_SMS log finish
+
+2012-10-14 08:32:46ZOEE_EQP_SMS Program End
+
+Create log file
+2012-10-14 08:41:13Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 08:41:13Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 08:42:08Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 08:42:08Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 08:44:24Z oee_empastcount_purge Program Start
+2012-10-14 08:44:24Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 08:45:00ZHoliday_inout_SMS_For_C2 Program Start
+SMS_C2 log finish
+
+2012-10-14 08:45:07ZHoliday_Inout_SMS_For_C2 Program End
+
+Create log file
+2012-10-14 08:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 08:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 08:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 08:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 08:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 08:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 09:01:04ZArray_Photo Program Start
+1150 log finish
+
+2012-10-14 09:01:06ZArray_Photo Program End
+
+Create log file
+2012-10-14 09:03:00ZArray_test_repeat Program Start
+2012-10-14 09:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 09:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2012-10-14 09:30:19ZARY_HOLD_LOT Program End
+
+Create log file
+2012-10-14 09:41:19Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 09:41:19Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 09:42:22Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 09:42:22Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 09:44:44Z oee_empastcount_purge Program Start
+2012-10-14 09:44:44Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 09:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 09:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 09:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 09:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 09:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 09:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 10:01:00ZArray_Photo Program Start
+1150 log finish
+
+2012-10-14 10:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 10:03:00ZArray_test_repeat Program Start
+2012-10-14 10:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 10:41:16Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 10:41:16Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 10:42:15Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 10:42:15Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 10:44:29Z oee_empastcount_purge Program Start
+2012-10-14 10:44:29Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 10:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 10:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 10:50:02Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 10:50:02Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 10:50:03Z SERVER_SELF_CHECK   Program Start
+2012-10-14 10:50:03Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 10:50:04Z SERVER_SELF_CHECK Program Start
+SMS log finish
+
+2012-10-14 10:50:04Z SERVER_SELF_CHECK Program End
+
+Create log file
+2012-10-14 11:01:00ZArray_Photo Program Start
+1150 log finish
+
+2012-10-14 11:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 11:03:00ZArray_test_repeat Program Start
+2012-10-14 11:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 11:40:00Z T1OEE Purge Program Start
+2012-10-14 11:40:00Z T1OEE Purge Program END 
+
+Create log file
+2012-10-14 11:41:15Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 11:41:15Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 11:42:19Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 11:42:19Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 11:44:36Z oee_empastcount_purge Program Start
+2012-10-14 11:44:36Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 11:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 11:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 11:50:02Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 11:50:02Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 11:50:03Z SERVER_SELF_CHECK   Program Start
+2012-10-14 11:50:03Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 12:01:00ZArray_Photo Program Start
+2012-10-14 12:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 12:03:00ZArray_test_repeat Program Start
+2012-10-14 12:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 12:41:21Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 12:41:21Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 12:43:03Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 12:43:03Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 12:47:21Z oee_empastcount_purge Program Start
+2012-10-14 12:47:21Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 12:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 12:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 12:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 12:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 12:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 12:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 13:01:00ZArray_Photo Program Start
+2012-10-14 13:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 13:03:00ZArray_test_repeat Program Start
+2012-10-14 13:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 13:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 48hrs, please check
+
+2012-10-14 13:30:17ZARY_HOLD_LOT Program End
+
+Create log file
+2012-10-14 13:41:24Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 13:41:24Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 13:42:41Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 13:42:41Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 13:46:42Z oee_empastcount_purge Program Start
+2012-10-14 13:46:42Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 13:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 13:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 13:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 13:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 13:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 13:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 14:01:00ZArray_Photo Program Start
+2012-10-14 14:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 14:03:00ZArray_test_repeat Program Start
+2012-10-14 14:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 14:41:15Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 14:41:15Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 14:41:40Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 14:41:40Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 14:44:25Z oee_empastcount_purge Program Start
+2012-10-14 14:44:25Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 14:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 14:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 14:50:04Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 14:50:04Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 14:50:04Z SERVER_SELF_CHECK   Program Start
+2012-10-14 14:50:04Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 15:01:00ZArray_Photo Program Start
+2012-10-14 15:01:02ZArray_Photo Program End
+
+Create log file
+2012-10-14 15:03:00ZArray_test_repeat Program Start
+2012-10-14 15:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 15:41:18Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 15:41:18Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 15:41:42Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 15:41:42Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 15:44:25Z oee_empastcount_purge Program Start
+2012-10-14 15:44:25Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 15:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 15:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 15:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 15:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 15:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 15:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 16:01:00ZArray_Photo Program Start
+1150 log finish
+
+2012-10-14 16:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 16:03:00ZArray_test_repeat Program Start
+2012-10-14 16:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 16:41:15Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 16:41:15Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 16:41:40Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 16:41:40Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 16:44:22Z oee_empastcount_purge Program Start
+2012-10-14 16:44:22Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 16:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 16:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 16:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 16:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 16:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 16:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 17:01:00ZArray_Photo Program Start
+1150 log finish
+
+2012-10-14 17:01:03ZArray_Photo Program End
+
+Create log file
+2012-10-14 17:03:00ZArray_test_repeat Program Start
+2012-10-14 17:03:02ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 17:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2012-10-14 17:30:13ZARY_HOLD_LOT Program End
+
+Create log file
+2012-10-14 17:41:17Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 17:41:17Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 17:41:42Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 17:41:42Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 17:44:26Z oee_empastcount_purge Program Start
+2012-10-14 17:44:26Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 17:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 17:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 17:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 17:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 17:50:03Z SERVER_SELF_CHECK   Program Start
+2012-10-14 17:50:03Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 18:01:00ZArray_Photo Program Start
+1150 log finish
+
+2012-10-14 18:01:02ZArray_Photo Program End
+
+Create log file
+2012-10-14 18:03:00ZArray_test_repeat Program Start
+2012-10-14 18:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 18:41:18Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 18:41:18Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 18:41:41Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 18:41:41Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 18:44:23Z oee_empastcount_purge Program Start
+2012-10-14 18:44:23Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 18:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 18:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 18:50:03Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 18:50:03Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 18:50:04Z SERVER_SELF_CHECK   Program Start
+2012-10-14 18:50:04Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 19:01:00ZArray_Photo Program Start
+2012-10-14 19:01:02ZArray_Photo Program End
+
+Create log file
+2012-10-14 19:03:00ZArray_test_repeat Program Start
+2012-10-14 19:03:01ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 19:41:15Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 19:41:15Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 19:41:44Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 19:41:44Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 19:44:34Z oee_empastcount_purge Program Start
+2012-10-14 19:44:34Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 19:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 19:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 19:50:01Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 19:50:01Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 19:50:03Z SERVER_SELF_CHECK   Program Start
+2012-10-14 19:50:03Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 20:01:00ZArray_Photo Program Start
+2012-10-14 20:01:02ZArray_Photo Program End
+
+Create log file
+2012-10-14 20:03:00ZArray_test_repeat Program Start
+2012-10-14 20:03:01ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 20:41:16Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 20:41:16Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 20:41:43Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 20:41:43Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 20:44:34Z oee_empastcount_purge Program Start
+2012-10-14 20:44:34Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 20:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 20:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 20:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 20:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 20:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 20:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 21:01:00ZArray_Photo Program Start
+2012-10-14 21:01:02ZArray_Photo Program End
+
+Create log file
+2012-10-14 21:03:00ZArray_test_repeat Program Start
+2012-10-14 21:03:01ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 21:30:00ZARY_HOLD_LOT Program Start
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+There are lots exceed process time for 24hrs, please check
+
+2012-10-14 21:30:14ZARY_HOLD_LOT Program End
+
+Create log file
+2012-10-14 21:41:20Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 21:41:20Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 21:41:50Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 21:41:50Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 21:45:08Z oee_empastcount_purge Program Start
+2012-10-14 21:45:08Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 21:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 21:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 21:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 21:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 21:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 21:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 22:00:00ZSERVER_SMS_TEST Program Start
+SMS log finish
+
+2012-10-14 22:00:00ZSERVER_SMS_TEST Program End
+
+Create log file
+2012-10-14 22:01:00ZArray_Photo Program Start
+2012-10-14 22:01:02ZArray_Photo Program End
+
+Create log file
+2012-10-14 22:03:00ZArray_test_repeat Program Start
+2012-10-14 22:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 22:41:17Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 22:41:17Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 22:41:44Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 22:41:44Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 22:44:43Z oee_empastcount_purge Program Start
+2012-10-14 22:44:43Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 22:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 22:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 22:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 22:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 22:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 22:50:01Z SERVER_SELF_CHECK   Program END 
+
+Create log file
+2012-10-14 23:01:01ZArray_Photo Program Start
+2012-10-14 23:01:05ZArray_Photo Program End
+
+Create log file
+2012-10-14 23:03:00ZArray_test_repeat Program Start
+2012-10-14 23:03:00ZArray_test_repeat Program End
+
+Create log file
+2012-10-14 23:41:27Z oee_empaidxsummdaily_purge Program Start
+2012-10-14 23:41:27Z oee_empaidxsummdaily_purge Program END 
+
+Create log file
+2012-10-14 23:42:33Z oee_empaidxsummhourly_purge Program Start
+2012-10-14 23:42:33Z oee_empaidxsummhourly_purge Program END 
+
+Create log file
+2012-10-14 23:46:03Z oee_empastcount_purge Program Start
+2012-10-14 23:46:03Z oee_empastcount_purge Program END 
+
+Create log file
+2012-10-14 23:50:00Z OEE_IS_Hourly_Check_alarm  Program Start
+2012-10-14 23:50:00Z OEE_IS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 23:50:00Z ALCS_Hourly_Check_alarm  Program Start
+2012-10-14 23:50:00Z ALCS_Hourly_Check_alarm  Program END 
+
+Create log file
+2012-10-14 23:50:01Z SERVER_SELF_CHECK   Program Start
+2012-10-14 23:50:01Z SERVER_SELF_CHECK   Program END 
+

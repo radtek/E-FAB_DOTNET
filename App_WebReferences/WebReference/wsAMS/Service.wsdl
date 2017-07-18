@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AlarmSystem_Login">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_Login" type="tns:clsLogin" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsLogin">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginCheck" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AlarmSystem_LoginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AlarmSystem_LoginResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsReturn">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Success" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="RtnCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Desc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LongDesc" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AlarmSystem_UpdatePassword">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_UpdatePassword" type="tns:clsUpdatePassword" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsUpdatePassword">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AlarmSystem_UpdatePasswordResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AlarmSystem_UpdatePasswordResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Maintain_User">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_User" type="tns:clsUser" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsUser">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserPW" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserGroup" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserDepID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Auth_Level" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserMail" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserSMSPhone" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserTel" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserStartTime" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserEndTime" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Group_Level" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserCmd" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginAuthLevel" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Maintain_UserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Maintain_UserResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Maintain_UGroup">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_UGroup" type="tns:clsUGroup" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsUGroup">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UGroupID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UGroupDes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UGroupType" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Group_Level" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UGroupCmd" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Maintain_UGroupResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Maintain_UGroupResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Maintain_Fab">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_Fab" type="tns:clsFab" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsFab">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FabID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FabName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FabDesc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FabCmd" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Maintain_FabResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Maintain_FabResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Maintain_SubSystem">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_SubSystem" type="tns:clsSubSystem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsSubSystem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SubSystemID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SubSystemName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SubSystemDesc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SubSystemCmd" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Maintain_SubSystemResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Maintain_SubSystemResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Maintain_Event">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_Event" type="tns:clsEvent" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsEvent">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EventID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EventDesc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EventCmd" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Maintain_EventResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Maintain_EventResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Maintain_Message">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_Message" type="tns:clsMessage" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsMessage">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MessageID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MessageDesc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MessageType" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MessageData" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MessageCmd" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Maintain_MessageResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Maintain_MessageResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Maintain_Alarm">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_Alarm" type="tns:clsAlarm" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsAlarm">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmFabID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmSSystemID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmEapID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmEapName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmDesc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmPriority" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmMsgFilter" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmSTI" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmEventID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AlarmCmd" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Auth_Level" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Maintain_AlarmResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Maintain_AlarmResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Maintain_ALevel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_ALevel" type="tns:clsALevel" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsALevel">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ALevelEventID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ALevel" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ALevelRetryCount" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ALevelReCallPeriod" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ALevelTimeInterval" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ALevelConfirmAck" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ALevelCmd" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Auth_Level" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Maintain_ALevelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Maintain_ALevelResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Maintain_UEventGroup">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_UEventGroup" type="tns:clsUEventGroup" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsUEventGroup">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UEventGroupID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UEventGroupDesc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UEventGroupCmd" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Maintain_UEventGroupResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Maintain_UEventGroupResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Maintain_RowAuth">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_RowAuth" type="tns:clsRowAuth" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsRowAuth">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Auth_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Auth_Desc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MyComment" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Maintain_RowAuthResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Maintain_RowAuthResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Set_Authentication">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_Authentication" type="tns:clsAuthentication" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsAuthentication">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AuthenticationGroupID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AuthenticationFunctionID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AuthenticationReadOnly" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AuthenticationCmd" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Auth_Level" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Set_AuthenticationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Set_AuthenticationResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Set_Method">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_Method" type="tns:clsMethod" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsMethod">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodEventID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodAlarmLevel" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodUEGroupID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodIsGroupRule" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodMsg1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodMsg2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodMsg3" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodMType1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodMType2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodMType3" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MethodCmd" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Auth_Level" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Set_MethodResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Set_MethodResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Set_UEGroup">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_UEGroup" type="tns:clsUEGroup" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsUEGroup">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UEGroupID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UEGroupUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UEGroupCmd" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Auth_Level" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Set_UEGroupResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Set_UEGroupResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Set_UserRowAuth">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_UserRowAuth" type="tns:clsUserRowAuth" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsUserRowAuth">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FuncID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LoginUserID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="User_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Auth_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CreateUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LastModifiedUser_Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MyComment" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Auth_Level" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Set_UserRowAuthResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Set_UserRowAuthResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Report_AConfirm">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="i_AConfirm" type="tns:clsAConfirm" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="clsAConfirm">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="AConfirmLogsequence" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AConfirmUserID" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Report_AConfirmResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Report_AConfirmResult" type="tns:clsReturn" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="AlarmSystem_LoginSoapIn">
+    <wsdl:part name="parameters" element="tns:AlarmSystem_Login" />
+  </wsdl:message>
+  <wsdl:message name="AlarmSystem_LoginSoapOut">
+    <wsdl:part name="parameters" element="tns:AlarmSystem_LoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="AlarmSystem_UpdatePasswordSoapIn">
+    <wsdl:part name="parameters" element="tns:AlarmSystem_UpdatePassword" />
+  </wsdl:message>
+  <wsdl:message name="AlarmSystem_UpdatePasswordSoapOut">
+    <wsdl:part name="parameters" element="tns:AlarmSystem_UpdatePasswordResponse" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_UserSoapIn">
+    <wsdl:part name="parameters" element="tns:Maintain_User" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_UserSoapOut">
+    <wsdl:part name="parameters" element="tns:Maintain_UserResponse" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_UGroupSoapIn">
+    <wsdl:part name="parameters" element="tns:Maintain_UGroup" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_UGroupSoapOut">
+    <wsdl:part name="parameters" element="tns:Maintain_UGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_FabSoapIn">
+    <wsdl:part name="parameters" element="tns:Maintain_Fab" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_FabSoapOut">
+    <wsdl:part name="parameters" element="tns:Maintain_FabResponse" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_SubSystemSoapIn">
+    <wsdl:part name="parameters" element="tns:Maintain_SubSystem" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_SubSystemSoapOut">
+    <wsdl:part name="parameters" element="tns:Maintain_SubSystemResponse" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_EventSoapIn">
+    <wsdl:part name="parameters" element="tns:Maintain_Event" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_EventSoapOut">
+    <wsdl:part name="parameters" element="tns:Maintain_EventResponse" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_MessageSoapIn">
+    <wsdl:part name="parameters" element="tns:Maintain_Message" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_MessageSoapOut">
+    <wsdl:part name="parameters" element="tns:Maintain_MessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_AlarmSoapIn">
+    <wsdl:part name="parameters" element="tns:Maintain_Alarm" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_AlarmSoapOut">
+    <wsdl:part name="parameters" element="tns:Maintain_AlarmResponse" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_ALevelSoapIn">
+    <wsdl:part name="parameters" element="tns:Maintain_ALevel" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_ALevelSoapOut">
+    <wsdl:part name="parameters" element="tns:Maintain_ALevelResponse" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_UEventGroupSoapIn">
+    <wsdl:part name="parameters" element="tns:Maintain_UEventGroup" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_UEventGroupSoapOut">
+    <wsdl:part name="parameters" element="tns:Maintain_UEventGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_RowAuthSoapIn">
+    <wsdl:part name="parameters" element="tns:Maintain_RowAuth" />
+  </wsdl:message>
+  <wsdl:message name="Maintain_RowAuthSoapOut">
+    <wsdl:part name="parameters" element="tns:Maintain_RowAuthResponse" />
+  </wsdl:message>
+  <wsdl:message name="Set_AuthenticationSoapIn">
+    <wsdl:part name="parameters" element="tns:Set_Authentication" />
+  </wsdl:message>
+  <wsdl:message name="Set_AuthenticationSoapOut">
+    <wsdl:part name="parameters" element="tns:Set_AuthenticationResponse" />
+  </wsdl:message>
+  <wsdl:message name="Set_MethodSoapIn">
+    <wsdl:part name="parameters" element="tns:Set_Method" />
+  </wsdl:message>
+  <wsdl:message name="Set_MethodSoapOut">
+    <wsdl:part name="parameters" element="tns:Set_MethodResponse" />
+  </wsdl:message>
+  <wsdl:message name="Set_UEGroupSoapIn">
+    <wsdl:part name="parameters" element="tns:Set_UEGroup" />
+  </wsdl:message>
+  <wsdl:message name="Set_UEGroupSoapOut">
+    <wsdl:part name="parameters" element="tns:Set_UEGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="Set_UserRowAuthSoapIn">
+    <wsdl:part name="parameters" element="tns:Set_UserRowAuth" />
+  </wsdl:message>
+  <wsdl:message name="Set_UserRowAuthSoapOut">
+    <wsdl:part name="parameters" element="tns:Set_UserRowAuthResponse" />
+  </wsdl:message>
+  <wsdl:message name="Report_AConfirmSoapIn">
+    <wsdl:part name="parameters" element="tns:Report_AConfirm" />
+  </wsdl:message>
+  <wsdl:message name="Report_AConfirmSoapOut">
+    <wsdl:part name="parameters" element="tns:Report_AConfirmResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AlarmSystem_Login">
+      <wsdl:input message="tns:AlarmSystem_LoginSoapIn" />
+      <wsdl:output message="tns:AlarmSystem_LoginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AlarmSystem_UpdatePassword">
+      <wsdl:input message="tns:AlarmSystem_UpdatePasswordSoapIn" />
+      <wsdl:output message="tns:AlarmSystem_UpdatePasswordSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_User">
+      <wsdl:input message="tns:Maintain_UserSoapIn" />
+      <wsdl:output message="tns:Maintain_UserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_UGroup">
+      <wsdl:input message="tns:Maintain_UGroupSoapIn" />
+      <wsdl:output message="tns:Maintain_UGroupSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Fab">
+      <wsdl:input message="tns:Maintain_FabSoapIn" />
+      <wsdl:output message="tns:Maintain_FabSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_SubSystem">
+      <wsdl:input message="tns:Maintain_SubSystemSoapIn" />
+      <wsdl:output message="tns:Maintain_SubSystemSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Event">
+      <wsdl:input message="tns:Maintain_EventSoapIn" />
+      <wsdl:output message="tns:Maintain_EventSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Message">
+      <wsdl:input message="tns:Maintain_MessageSoapIn" />
+      <wsdl:output message="tns:Maintain_MessageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Alarm">
+      <wsdl:input message="tns:Maintain_AlarmSoapIn" />
+      <wsdl:output message="tns:Maintain_AlarmSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_ALevel">
+      <wsdl:input message="tns:Maintain_ALevelSoapIn" />
+      <wsdl:output message="tns:Maintain_ALevelSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_UEventGroup">
+      <wsdl:input message="tns:Maintain_UEventGroupSoapIn" />
+      <wsdl:output message="tns:Maintain_UEventGroupSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_RowAuth">
+      <wsdl:input message="tns:Maintain_RowAuthSoapIn" />
+      <wsdl:output message="tns:Maintain_RowAuthSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Set_Authentication">
+      <wsdl:input message="tns:Set_AuthenticationSoapIn" />
+      <wsdl:output message="tns:Set_AuthenticationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Set_Method">
+      <wsdl:input message="tns:Set_MethodSoapIn" />
+      <wsdl:output message="tns:Set_MethodSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Set_UEGroup">
+      <wsdl:input message="tns:Set_UEGroupSoapIn" />
+      <wsdl:output message="tns:Set_UEGroupSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Set_UserRowAuth">
+      <wsdl:input message="tns:Set_UserRowAuthSoapIn" />
+      <wsdl:output message="tns:Set_UserRowAuthSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Report_AConfirm">
+      <wsdl:input message="tns:Report_AConfirmSoapIn" />
+      <wsdl:output message="tns:Report_AConfirmSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlarmSystem_Login">
+      <soap:operation soapAction="http://tempuri.org/AlarmSystem_Login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlarmSystem_UpdatePassword">
+      <soap:operation soapAction="http://tempuri.org/AlarmSystem_UpdatePassword" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_User">
+      <soap:operation soapAction="http://tempuri.org/Maintain_User" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_UGroup">
+      <soap:operation soapAction="http://tempuri.org/Maintain_UGroup" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Fab">
+      <soap:operation soapAction="http://tempuri.org/Maintain_Fab" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_SubSystem">
+      <soap:operation soapAction="http://tempuri.org/Maintain_SubSystem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Event">
+      <soap:operation soapAction="http://tempuri.org/Maintain_Event" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Message">
+      <soap:operation soapAction="http://tempuri.org/Maintain_Message" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Alarm">
+      <soap:operation soapAction="http://tempuri.org/Maintain_Alarm" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_ALevel">
+      <soap:operation soapAction="http://tempuri.org/Maintain_ALevel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_UEventGroup">
+      <soap:operation soapAction="http://tempuri.org/Maintain_UEventGroup" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_RowAuth">
+      <soap:operation soapAction="http://tempuri.org/Maintain_RowAuth" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Set_Authentication">
+      <soap:operation soapAction="http://tempuri.org/Set_Authentication" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Set_Method">
+      <soap:operation soapAction="http://tempuri.org/Set_Method" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Set_UEGroup">
+      <soap:operation soapAction="http://tempuri.org/Set_UEGroup" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Set_UserRowAuth">
+      <soap:operation soapAction="http://tempuri.org/Set_UserRowAuth" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Report_AConfirm">
+      <soap:operation soapAction="http://tempuri.org/Report_AConfirm" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlarmSystem_Login">
+      <soap12:operation soapAction="http://tempuri.org/AlarmSystem_Login" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlarmSystem_UpdatePassword">
+      <soap12:operation soapAction="http://tempuri.org/AlarmSystem_UpdatePassword" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_User">
+      <soap12:operation soapAction="http://tempuri.org/Maintain_User" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_UGroup">
+      <soap12:operation soapAction="http://tempuri.org/Maintain_UGroup" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Fab">
+      <soap12:operation soapAction="http://tempuri.org/Maintain_Fab" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_SubSystem">
+      <soap12:operation soapAction="http://tempuri.org/Maintain_SubSystem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Event">
+      <soap12:operation soapAction="http://tempuri.org/Maintain_Event" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Message">
+      <soap12:operation soapAction="http://tempuri.org/Maintain_Message" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_Alarm">
+      <soap12:operation soapAction="http://tempuri.org/Maintain_Alarm" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_ALevel">
+      <soap12:operation soapAction="http://tempuri.org/Maintain_ALevel" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_UEventGroup">
+      <soap12:operation soapAction="http://tempuri.org/Maintain_UEventGroup" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Maintain_RowAuth">
+      <soap12:operation soapAction="http://tempuri.org/Maintain_RowAuth" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Set_Authentication">
+      <soap12:operation soapAction="http://tempuri.org/Set_Authentication" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Set_Method">
+      <soap12:operation soapAction="http://tempuri.org/Set_Method" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Set_UEGroup">
+      <soap12:operation soapAction="http://tempuri.org/Set_UEGroup" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Set_UserRowAuth">
+      <soap12:operation soapAction="http://tempuri.org/Set_UserRowAuth" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Report_AConfirm">
+      <soap12:operation soapAction="http://tempuri.org/Report_AConfirm" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://172.16.12.124:8080/wsAMS/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://172.16.12.124:8080/wsAMS/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

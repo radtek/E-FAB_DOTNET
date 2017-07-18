@@ -1,0 +1,30 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+<%@ Register TagPrefix="Innolux" Namespace="Innolux.Portal.WebControls" %>
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+
+<asp:Image SkinId="titleImage" runat="server" ImageUrl="./Images/index1.jpg" Width="100%" Height="299" />
+<asp:Image SkinId="pageTitleImage" runat="server" ImageUrl="./Images/InnoBanner3.gif" />
+<asp:Image SkinId="guidanceArrow" runat="server" ImageUrl="./Images/guidance_arrow.jpg" Width="3" Height="5" />
+
+<asp:Image SkinId="guidanceTitle" runat="server" ImageUrl="./Images/guidance_title.jpg" Width="104" Height="25" />
+
+<asp:ImageButton SkinId="editButton" runat="server" ImageUrl="./Images/Edit.gif" />
+<asp:ImageButton SkinId="deleteButton" runat="server" ImageUrl="./Images/Delete.gif" />
+
+
+<telerik:RadSplitter runat="server" Skin="Office2007" />
+<telerik:RadTreeView runat="server" Skin="Office2007" Width="100%" Height="100%" />

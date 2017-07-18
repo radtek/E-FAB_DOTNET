@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<transaction>
+	<trx_id>AUTOREPORT</trx_id>
+	<type_id>1</type_id>
+	<fab_id>T1ARRAY</fab_id>
+	<sys_type>ALM_SMS</sys_type>
+	<eq_id>SMS</eq_id>
+	<alarm_id>67</alarm_id>
+	<alarm_text>PARS DB Connection TimeOut</alarm_text>
+	<mail_contenttype >T</mail_contenttype >
+	<alarm_comment value ="PARS DB Connection TimeOut" />
+	<pc_ip>10.56.131.22</pc_ip>
+	<pc_name>CIMWEB01</pc_name>
+	<operator>CIMWEB01</operator>
+	<issue_date>20110804104843</issue_date>
+</transaction>
+

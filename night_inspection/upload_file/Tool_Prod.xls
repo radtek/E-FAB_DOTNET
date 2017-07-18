@@ -1,0 +1,11 @@
+ <html>  <head><meta http-equiv='Content-Type' content='text/html; charset=big5'></head>  <body> <div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">TOOL_ID</th><th scope="col">PROD_NAME</th><th scope="col">RECIPE</th><th scope="col">UPDATE_USER</th><th scope="col">DTTM</th><th scope="col">SN</th>
+		</tr><tr>
+			<td>A05031D58CBM1AC19CP</td><td>500C</td><td>67</td><td>SYS</td><td>2010/3/15 下午 05:04:43</td><td>532</td>
+		</tr><tr>
+			<td>A05031D58CBM1AC19CP</td><td>500C</td><td>68</td><td>SYS</td><td>2010/3/15 下午 05:04:43</td><td>560</td>
+		</tr>
+	</table>
+</div> </body> </html>

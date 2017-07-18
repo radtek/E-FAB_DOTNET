@@ -1,0 +1,5 @@
+select t.productspecname,t.processflowname,t2.producttype,t.lotname,t2.productname,t2.processoperationname,t.eventname,t.eventtime,t.productiontype,t.carriername,t.eventcomment,t.eventuser,t2.subproductquantity1 from lothistory t,product t2
+where t.lotname in (select t3.lotname from cl_scrap t3
+where t3.shift_date>='20100712'
+      and t3.shift_date<'20100722') and t.eventname in ('SCRAP','UNSCRAP')
+and t.timekey=t2.lasteventtimekey

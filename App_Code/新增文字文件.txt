@@ -1,0 +1,1 @@
+window.open('test.htm','pop','scrollbars=no,toolbar=no,menubar=no,location=no,width=400,height=400,top=10,left=100')>

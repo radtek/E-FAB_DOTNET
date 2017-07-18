@@ -1,0 +1,15 @@
+ select tt.shop,tt.lot_id,ot1.glass_id,tt.input_product,tt.prod_name,tt.lot_type,tt.step_seq,tt.step_desc,tt.glass_qty,ot1.cst_id,ot1.vendor_lot_id  from lot tt ,substrate ot1
+where tt.lot_id in (
+
+
+select t.lot_id from cut_time_wip t
+where t.cut_date like '201008__'  and t.cut_time = '070000' and t.prod_name ='970A1F008'
+  and t.lot_id not in (
+
+select t.lot_id from cut_time_wip t
+where t.cut_date = '20100806' and t.cut_time = '070000' and t.prod_name ='970A1F008'
+)
+)
+and  tt.prod_name not in ('970A1F008')
+
+and tt.lot_id=ot1.lot_id

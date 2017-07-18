@@ -1,0 +1,15 @@
+UnPack
+Pre-Sorter
+Exchanger
+Pre-Cut
+PI
+RUB
+ASM
+SB
+Sorter
+PA
+CellTest
+LaserRepair
+Panel-Insert
+Cleaner
+Shipping

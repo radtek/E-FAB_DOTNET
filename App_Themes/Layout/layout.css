@@ -1,0 +1,102 @@
+﻿body 
+{
+    margin-top:0;
+}
+
+.pageTitle
+{
+	font-size: 14px;
+	color: navy;
+	background-image: url(../../images/background/topnav2-bgn.gif);
+	cellspacing: 0;
+	bordercolordark: #ffffff;
+	cellpadding: 1;
+	width: 100%;
+	bordercolorlight: #7a9cb7;
+	border: 1;
+	font-family: 超研澤中特圓;
+	text-align: center;
+}
+
+.pageTitle2
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: navy;
+    background-image: url(../../images/background/06-column01.gif);
+    cellspacing : 0;
+    bordercolordark : #ffffff;
+    cellpadding : 1 ;
+    width : 100% ;
+    bordercolorlight: #7a9cb7;
+    border : 1;
+    
+}
+
+.pageTD
+{
+    background-image: url(../../images/background/untitled28.bmp); 
+    width: 20%;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Arial;
+    background-color:white;
+}
+
+.pageTD2
+{
+    background-image: url(../../images/background/untitled28.bmp); 
+    width: 20%;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Arial;
+    background-color:white;
+}
+
+.pageTD3
+{
+    background-image: url(../../images/background/06-column01.gif); 
+    width: 15%;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Arial;
+    background-color:white;
+}
+
+.pageLabel
+{
+font-size: 13px; 
+font-family: Arial; 
+color:Navy;
+}
+
+.pageLabel2
+{
+font-size: 13px; 
+font-family: Arial; 
+color:Black;
+}
+
+.pageLabel3
+{
+font-size: 15px; 
+font-family: Arial; 
+color:Black;
+}
+
+.modalbackground
+{
+    border: 1px solid #2F4F4F;
+    color: white;
+    background-color: #000000;
+    font-weight: bold;
+    cursor: not-allowed;
+    filter: Alpha(opacity=40);
+}
+
+.pageCheckbox
+{
+    font-size: 12px;
+    font-family: Arial;
+
+}
